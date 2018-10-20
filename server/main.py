@@ -5,13 +5,27 @@
 # from flask import Flask
 import csv
 
+files = {
+         'child-county': {'name': 'FIbychild/county.csv', 'x': 0, 'y': 1},
+         'child-district': {'name': 'FIbychild/district.csv', 'x': 0, 'y': 2},
+         'overall-county': {'name': 'FIoverall/county.csv', 'x': 0, 'y': 2},
+         'overall-district': {'name': 'FIoverall/district.csv', 'x': 0, 'y': 2}
+         }
 
-with open('FIbychild/county.csv') as csvfile:
-    my_reader = csv.reader(csvfile, delimiter=',', quotechar='"')
-    for row in my_reader:
-        if len(row) == 7:
-            print(row[0].rjust(15), '|', row[2].ljust(5))
-        else:
-            print(row[0].rjust(15), '|', row[1].ljust(5))
 
-# with open('overallfoodinsecurity/'
+def print_formatted_rows(rows, x, y):
+    for row in rows:
+        print(row[x].ljust(15), "|", row[y].rjust(5))
+    return None
+
+
+def print_all_data(files):
+    for file in files.keys():
+        print(files[file]['name'], '\n')
+        with open(files[file]['name']) as csvfile:
+            my_reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+            print_formatted_rows(my_reader, files[file]['x'], files[file]['y'])
+        print('-' * 25, '\n')
+
+if __name__ == '__main__':
+    print_all_data(files)
