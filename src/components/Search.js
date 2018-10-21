@@ -17,11 +17,24 @@ const styles = {
     search: {
         color: "rgba(235, 235, 235, 0.65)",
     },
+    input: {
+        fontFamily: "Paytone One, sans-serif",
+        fontSize: "30px",
+        marginLeft: "30px",
+        height: "30px",
+        border: "none",
+        outline: "none",
+        backgroundColor: "rgba(0, 0, 0, 0)",
+        color: "rgba(235, 235, 235, 0.65)",
+    },
 };
 
 export default class Search extends Component {
     constructor() {
         super();
+        this.state = {
+            searchText: "SEARCH AREA HERE",
+        };
     }
     
     render() {
@@ -29,7 +42,11 @@ export default class Search extends Component {
             <Container fluid style={this.props.style}>
                 <Row style={styles.row}>
                     <FontAwesomeIcon icon="search" style={styles.search} size="2x"/>
-                    
+                    <input
+                        placeholder={this.state.searchText}
+                        placeholderTextColor="rgba(235, 235, 235, 0.65)"
+                        style={styles.input}
+                    ></input>
                 </Row>
             </Container>
         );

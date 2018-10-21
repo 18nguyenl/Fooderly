@@ -11,6 +11,7 @@ import WebFont from 'webfontloader'
 import AreaList from './components/AreaList'
 import AreaButton from './components/AreaButton'
 import Search from './components/Search'
+import JumboImage from './resc/wheat.png'
 
 library.add(faBars);
 
@@ -22,7 +23,9 @@ WebFont.load({
 
 const styles = {
   app: {
-    padding: "0 4vw",
+    padding: "0",
+    paddingLeft: "4vw",
+    paddingRight: "5vw",
     minHeight: "100vh",
     minWidth: "100vw",
     background: "linear-gradient(180deg, #FF9595 0%, #1E1E1E 50.83%)",
@@ -42,18 +45,27 @@ const styles = {
     marginBottom: "3vh",
     padding: "3vh 3vw",
   },
+  jumbotronImage: {
+    position: "absolute",
+    display: "inline-block",
+    zIndex: "0",
+    left: "4vw",
+    top: "5vh",
+    mixBlendMode: "multiply",
+  },
   intro: {
     overflowY: "hidden",
     color: "#EBEBEB",
     fontFamily: "'K2D', sans-serif",
     lineHeight: "2",
     position: "relative",
-    minHeight: "100px",
-    minWidth: "360px",
+    minHeight: "50px",
+    minWidth: "180px",
     maxHeight: "200px",
     maxWidth: "40vw",
-    marginLeft: "50vw",
+    marginLeft: "30vw",
     top: "15vh",
+    left: "10vw",
     right: "10vw",
   },
   h1: {
@@ -81,6 +93,7 @@ class App extends Component {
           </div>
 
           <section style={styles.jumbotron}>
+            <img src={JumboImage} style={styles.jumbotronImage}/>
             <p style={styles.intro}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper sit amet nibh nec sodales. Nunc quis placerat quam. Nulla at volutpat sapien. Donec et erat tempus, vehicula mi et, vehicula turpis. Donec metus lacus, mollis id nisi sed, dictum dignissim felis. Duis porttitor risus at sem dignissim imperdiet. Duis ornare mollis ipsum aliquam suscipit. 
             </p>

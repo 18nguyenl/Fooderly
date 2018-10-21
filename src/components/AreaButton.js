@@ -25,6 +25,7 @@ export default function AreaButton (props) {
             border: "0",
             borderRadius: "20px",
             background: color,
+            zIndex: "10",
         },
     };
 
