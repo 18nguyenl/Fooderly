@@ -2,8 +2,9 @@
 # https://www.feedingamerica.org/research/map-the-meal-gap/2016/overall/TX_AllCounties_CDs_MMG_2016.pdf
 # https://www.feedingamerica.org/research/map-the-meal-gap/2016/child/TX_AllCounties_CDs_CFI_2016.pdf
 
-# from flask import Flask
 import csv
+
+test = True
 
 files = {
          'child-county': {'name': 'FIbychild/county.csv', 'x': 0, 'y': 1},
@@ -28,4 +29,4 @@ def print_all_data(files):
         print('-' * 25, '\n')
 
 if __name__ == '__main__':
-    print_all_data(files)
+    if test: print_all_data(files)

@@ -10,3 +10,8 @@
 .county{
     
 }
+
+
+path:hover{
+    stroke: rgb(199, 199, 199);
+}
