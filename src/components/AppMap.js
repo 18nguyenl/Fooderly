@@ -2,9 +2,10 @@
 import React, { Component } from "react"
 import { geoMercator, geoPath } from "d3-geo"
 import { feature } from "topojson-client"
-import {objects} from '../resc/tx_counties.topojson'
-import {dataset} from '../resc/county.json'
+// import {objects} from '../resc/tx_counties.topojson'
+import {dataset} from '../resc/txc.json'
 import './appMap.css';
+import { yellow, black } from "ansi-colors";
 
 class AppMap extends Component {
 
@@ -12,7 +13,9 @@ class AppMap extends Component {
     super()
     this.state = {
       worldData: [],
-      county: {}
+      county: {},
+      txc: {},
+      currentColor: "black"
       
     }
   }
@@ -26,7 +29,7 @@ class AppMap extends Component {
   componentDidMount() {
     // LOAD
 
-    
+    console.log("Comp Mounted");
 
     // GET MAP DATA
     fetch("https://raw.githubusercontent.com/TNRIS/tx.geojson/master/counties/tx_counties.topojson")
@@ -41,29 +44,44 @@ class AppMap extends Component {
           })
         })
       })
+      
+
+
+
+
   }
 
+  changeColor(col){
+    if(col === undefined){
+      return "black";
+    }
+    col = col.cir.slice(0,-1);
+    // this.setState({currentColor: col});
+    return `rgb(0, ${col * 5}, 0)`;
+  }
 
   render() {
     return (
         <div>
-            <svg className="texas_svg" width={ 800 } height={ 450 } viewBox="0 0 800 450">
+            <svg className="texas_svg" width={ 600 } height={ 450 } viewBox="0 0 700 450">
                 <g className="countries">
+                
                 {
+                  
                     this.state.worldData.map((d,i) => 
-                    
                     <path
                         key={ `path-${ i }` }
                         d={ geoPath().projection(this.projection())(d) }
                         // className="county"
-                        stroke={(dataset[d.properties.COUNTY] && dataset[d.properties.COUNTY].poverty_perc.slice(0, -1) > 30 ) ? "white" : "green" }
-                        strokeWidth={ (dataset[d.properties.COUNTY] && dataset[d.properties.COUNTY].poverty_perc.slice(0, -1) > 30 ) ?  1 : 0.5 }
-                        // className={"#"+ d.properties.COUNTY}
+                        stroke={(dataset[d.properties.COUNTY.slice(0,-7)] && dataset[d.properties.COUNTY.slice(0,-7)].cir.slice(0,-1)  > 30) ? `white` : "black" } //white: POVERTY, blue: we good
+                        strokeWidth={ .5}
+                        className={dataset[d.properties.COUNTY.slice(0,-7)] ? dataset[d.properties.COUNTY.slice(0,-7)].rounded + "|" + d.properties.COUNTY.slice(0,-7) : "none"}
                         // className={(d.properties.COUNTY == data.county) ? `rgb(0, 0, ${data.poverty_perc.slice(0,-1)})` : "red"}
-                        fill={(dataset[d.properties.COUNTY]) ? `rgb(${dataset[d.properties.COUNTY].poverty_perc.slice(0,-1) * 20 }, ${dataset[d.properties.COUNTY].poverty_perc.slice(0,-1) * 1.5},0)` : "black"}
+                        // fill="black"
+                        fill={(dataset[d.properties.COUNTY.slice(0,-7)]  && dataset[d.properties.COUNTY.slice(0,-7)].cir.slice(0,-1) > 25) ? `rgb(${dataset[d.properties.COUNTY.slice(0,-7)].cir.slice(0,-1) * 6 }, 0, 10)` : this.changeColor(dataset[d.properties.COUNTY.slice(0,-7)])}
                     />
                     )
-                }
+                  }
                 </g>
                  
             </svg>

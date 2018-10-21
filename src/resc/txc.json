@@ -1,0 +1,2346 @@
+{
+
+"dataset":{ 
+  "Anderson":{
+
+    "fir": "19.3%",
+    "Population under 18 years old": "1 1,191",
+    "cir": "24.8%",
+    "Estimated number food insecure children": "2,780 86%",
+    "rounded": "15%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Andrews":{
+
+    "fir": "8.5%",
+    "Population under 18 years old": "5 ,309",
+    "cir": "18.5%",
+    "Estimated number food insecure children": "980 52%",
+    "rounded": "48%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Angelina":{
+
+    "fir": "19.9%",
+    "Population under 18 years old": "2 2,915",
+    "cir": "26.7%",
+    "Estimated number food insecure children": "6,130 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Aransas":{
+
+    "fir": "15.6%",
+    "Population under 18 years old": "4 ,575",
+    "cir": "25.7%",
+    "Estimated number food insecure children": "1,180 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Archer":{
+    "fir": "14.8%",
+    "Population under 18 years old": "1 ,952",
+    "cir": "20.3%",
+    "Estimated number food insecure children": "400 61%",
+    "rounded": "39%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Armstron":{
+    "fir": "13.8%",
+    "Population under 18 years old": "4 33",
+    "cir": "19.0%",
+    "Estimated number food insecure children": "80 46%",
+    "rounded": "54%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Atascosa":{
+
+    "fir": "8.5%",
+    "Population under 18 years old": "1 3,401",
+    "cir": "22.0%",
+    "Estimated number food insecure children": "2,940 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Austin":{
+    "fir": "15.8%",
+    "Population under 18 years old": "7 ,125",
+    "cir": "24.2%",
+    "Estimated number food insecure children": "1,720 61%",
+    "rounded": "39%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Bailey":{
+    "fir": "9.5%",
+    "Population under 18 years old": "2 ,147",
+    "cir": "22.5%",
+    "Estimated number food insecure children": "480 100%",
+    "rounded": "0%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Bandera":{
+
+    "fir": "15.1%",
+    "Population under 18 years old": "3 ,712",
+    "cir": "25.5%",
+    "Estimated number food insecure children": "950 63%",
+    "rounded": "37%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Bastrop":{
+
+    "fir": "12.6%",
+    "Population under 18 years old": "2 0,097",
+    "cir": "20.9%",
+    "Estimated number food insecure children": "4,210 77%",
+    "rounded": "24%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Baylor":{
+    "fir": "16.6%",
+    "Population under 18 years old": "7 77",
+    "cir": "18.9%",
+    "Estimated number food insecure children": "150 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Bee":{
+    "fir": "14.1%",
+    "Population under 18 years old": "7 ,044",
+    "cir": "26.6%",
+    "Estimated number food insecure children": "1,880 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Bell": {
+    "fir": "19.3%",
+    "Population under 18 years old": "9 2,350",
+    "cir": "22.9%",
+    "Estimated number food insecure children": "21,140 68%",
+    "rounded": "33%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Bexar":{
+    "fir": "11.1%",
+    "Population under 18 years old": "4 87,339",
+    "cir": "21.2%",
+    "Estimated number food insecure children": "103,350 67%",
+    "rounded": "33%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Blanco":{
+    "fir": "13.3%",
+    "Population under 18 years old": "2 ,088",
+    "cir": "19.9%",
+    "Estimated number food insecure children": "420 72%",
+    "rounded": "28%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Borden":{
+    "fir": "14.2%",
+    "Population under 18 years old": "2 11",
+    "cir": "24.2%",
+    "Estimated number food insecure children": "50 6%",
+    "rounded": "94%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Bosque":{
+    "fir": "15.8%",
+    "Population under 18 years old": "3 ,928",
+    "cir": "24.6%",
+    "Estimated number food insecure children": "960 77%",
+    "rounded": "23%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Bowie":{
+    "fir": "23.0%",
+    "Population under 18 years old": "2 2,309",
+    "cir": "27.1%",
+    "Estimated number food insecure children": "6,040 75%",
+    "rounded": "25%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Brazoria":{
+    "fir": "14.5%",
+    "Population under 18 years old": "9 1,105",
+    "cir": "20.1%",
+    "Estimated number food insecure children": "18,290 54%",
+    "rounded": "46%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Brazos":{
+    "fir": "21.3%",
+    "Population under 18 years old": "4 3,152",
+    "cir": "22.7%",
+    "Estimated number food insecure children": "9,790 66%",
+    "rounded": "34%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Brewster":{
+    "fir": "11.6%",
+    "Population under 18 years old": "1 ,884",
+    "cir": "18.9%",
+    "Estimated number food insecure children": "360 76%",
+    "rounded": "24%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Briscoe":{
+    "fir": "13.6%",
+    "Population under 18 years old": "3 75",
+    "cir": "22.3%",
+    "Estimated number food insecure children": "80 88%",
+    "rounded": "13%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Brooks":{
+    "fir": "12.5%",
+    "Population under 18 years old": "1 ,750",
+    "cir": "33.3%",
+    "Estimated number food insecure children": "580 80%",
+    "rounded": "20%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Brown":{
+    "fir": "16.8%",
+    "Population under 18 years old": "8 ,723",
+    "cir": "25.4%",
+    "Estimated number food insecure children": "2,220 73%",
+    "rounded": "27%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Burleson":{
+    "fir": "16.1%",
+    "Population under 18 years old": "4 ,024",
+    "cir": "23.8%",
+    "Estimated number food insecure children": "960 68%",
+    "rounded": "32%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Burnet":{
+    "fir": "14.6%",
+    "Population under 18 years old": "9 ,720",
+    "cir": "23.2%",
+    "Estimated number food insecure children": "2,250 70%",
+    "rounded": "30%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Caldwell":{
+    "fir": "12.7%",
+    "Population under 18 years old": "9 ,686",
+    "cir": "22.0%",
+    "Estimated number food insecure children": "2,130 78%",
+    "rounded": "22%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Calhoun":{
+    "fir": "12.7%",
+    "Population under 18 years old": "5 ,561",
+    "cir": "25.3%",
+    "Estimated number food insecure children": "1,410 66%",
+    "rounded": "34%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Callahan":{
+    "fir": "17.8%",
+    "Population under 18 years old": "3 ,252",
+    "cir": "23.9%",
+    "Estimated number food insecure children": "780 73%",
+    "rounded": "27%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Cameron":{
+
+    "fir": "10.4%",
+    "Population under 18 years old": "1 32,594",
+    "cir": "28.8%",
+    "Estimated number food insecure children": "38,150 76%",
+    "rounded": "24%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Camp":{  
+    "fir": "19.7%",
+    "Population under 18 years old": "3 ,314",
+    "cir": "26.4%",
+    "Estimated number food insecure children": "880 84%",
+    "rounded": "16%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Carson":{
+    "fir": "13.0%",
+    "Population under 18 years old": "1 ,558",
+    "cir": "19.5%",
+    "Estimated number food insecure children": "300 42%",
+    "rounded": "58%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Cass":{  
+    "fir": "22.7%",
+    "Population under 18 years old": "6 ,849",
+    "cir": "29.1%",
+    "Estimated number food insecure children": "2,000 77%",
+    "rounded": "23%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Castro":{
+    "fir": "8.4%",
+    "Population under 18 years old": "2 ,377",
+    "cir": "20.6%",
+    "Estimated number food insecure children": "490 93%",
+    "rounded": "7%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Chambers":{
+    "fir": "15.2%",
+    "Population under 18 years old": "1 0,588",
+    "cir": "21.6%",
+    "Estimated number food insecure children": "2,280 59%",
+    "rounded": "41%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Cherokee":{
+    "fir": "19.2%",
+    "Population under 18 years old": "1 3,083",
+    "cir": "27.3%",
+    "Estimated number food insecure children": "3,580 83%",
+    "rounded": "17%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Childres":{
+    "fir": "19.2%",
+    "Population under 18 years old": "1 ,427",
+    "cir": "24.4%",
+    "Estimated number food insecure children": "350 68%",
+    "rounded": "32%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Clay":{  
+    "fir": "17.3%",
+    "Population under 18 years old": "2 ,228",
+    "cir": "24.8%",
+    "Estimated number food insecure children": "550 64%",
+    "rounded": "36%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Cochran":{
+
+    "fir": "11.1%",
+    "Population under 18 years old": "8 51",
+    "cir": "22.7%",
+    "Estimated number food insecure children": "190 85%",
+    "rounded": "16%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Coke":{  
+    "fir": "16.0%",
+    "Population under 18 years old": "6 51",
+    "cir": "24.4%",
+    "Estimated number food insecure children": "160 69%",
+    "rounded": "31%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Coleman":{
+
+    "fir": "18.1%",
+    "Population under 18 years old": "1 ,859",
+    "cir": "26.8%",
+    "Estimated number food insecure children": "500 79%",
+    "rounded": "21%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Collin":{
+    "fir": "15.0%",
+    "Population under 18 years old": "2 41,386",
+    "cir": "18.4%",
+    "Estimated number food insecure children": "44,420 41%",
+    "rounded": "59%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Collings":{
+    "fir": "14.3%",
+    "Population under 18 years old": "7 89",
+    "cir": "24.5%",
+    "Estimated number food insecure children": "190 93%",
+    "rounded": "7%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Colorado":{
+    "fir": "14.9%",
+    "Population under 18 years old": "4 ,811",
+    "cir": "21.2%",
+    "Estimated number food insecure children": "1,020 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Comal":{  
+    "fir": "12.1%",
+    "Population under 18 years old": "2 8,634",
+    "cir": "19.7%",
+    "Estimated number food insecure children": "5,650 57%",
+    "rounded": "43%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Comanche":{
+    "fir": "15.7%",
+    "Population under 18 years old": "3 ,065",
+    "cir": "26.9%",
+    "Estimated number food insecure children": "820 83%",
+    "rounded": "17%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Concho":{
+    "fir": "7.7%",
+    "Population under 18 years old": "5 46",
+    "cir": "22.4%",
+    "Estimated number food insecure children": "120 68%",
+    "rounded": "32%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Cooke":{  
+    "fir": "16.3%",
+    "Population under 18 years old": "9 ,424",
+    "cir": "24.1%",
+    "Estimated number food insecure children": "2,270 62%",
+    "rounded": "38%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Coryell":{
+
+    "fir": "19.2%",
+    "Population under 18 years old": "1 9,010",
+    "cir": "23.8%",
+    "Estimated number food insecure children": "4,530 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Cottle":{
+    "fir": "19.7%",
+    "Population under 18 years old": "3 68",
+    "cir": "26.9%",
+    "Estimated number food insecure children": "100 77%",
+    "rounded": "23%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Crane":{  
+    "fir": "9.2%",
+    "Population under 18 years old": "1 ,469",
+    "cir": "21.5%",
+    "Estimated number food insecure children": "320 48%",
+    "rounded": "52%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Crockett":{
+    "fir": "11.3%",
+    "Population under 18 years old": "9 55",
+    "cir": "28.0%",
+    "Estimated number food insecure children": "270 54%",
+    "rounded": "46%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Crosby":{
+    "fir": "12.0%",
+    "Population under 18 years old": "1 ,647",
+    "cir": "23.9%",
+    "Estimated number food insecure children": "390 81%",
+    "rounded": "19%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Culberso":{
+    "fir": "8.2%",
+    "Population under 18 years old": "5 25",
+    "cir": "23.8%",
+    "Estimated number food insecure children": "120 83%",
+    "rounded": "17%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Dallam":{
+    "fir": "12.5%",
+    "Population under 18 years old": "2 ,207",
+    "cir": "21.0%",
+    "Estimated number food insecure children": "460 78%",
+    "rounded": "22%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Dallas":{
+    "fir": "17.6%",
+    "Population under 18 years old": "6 76,745",
+    "cir": "23.3%",
+    "Estimated number food insecure children": "157,870 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Dawson":{
+    "fir": "11.0%",
+    "Population under 18 years old": "3 ,235",
+    "cir": "20.4%",
+    "Estimated number food insecure children": "660 79%",
+    "rounded": "21%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Deaf Smi":{
+    "fir": "7.4%",
+    "Population under 18 years old": "6 ,052",
+    "cir": "20.3%",
+    "Estimated number food insecure children": "1,230 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Delta":{  
+    "fir": "20.4%",
+    "Population under 18 years old": "1 ,159",
+    "cir": "29.3%",
+    "Estimated number food insecure children": "340 79%",
+    "rounded": "21%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Denton":{
+    "fir": "15.0%",
+    "Population under 18 years old": "1 97,147",
+    "cir": "18.7%",
+    "Estimated number food insecure children": "36,810 49%",
+    "rounded": "51%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "DeWitt":{
+    "fir": "14.9%",
+    "Population under 18 years old": "4 ,634",
+    "cir": "23.2%",
+    "Estimated number food insecure children": "1,070 77%",
+    "rounded": "23%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Dickens":{
+
+    "fir": "16.1%",
+    "Population under 18 years old": "4 64",
+    "cir": "24.6%",
+    "Estimated number food insecure children": "110 72%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Dimmit":{
+    "fir": "7.8%",
+    "Population under 18 years old": "3 ,245",
+    "cir": "25.0%",
+    "Estimated number food insecure children": "810 72%",
+    "rounded": "28%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Donley":{
+    "fir": "17.7%",
+    "Population under 18 years old": "6 94",
+    "cir": "25.2%",
+    "Estimated number food insecure children": "180 70%",
+    "rounded": "30%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Duval":{  
+    "fir": "10.1%",
+    "Population under 18 years old": "2 ,807",
+    "cir": "28.4%",
+    "Estimated number food insecure children": "800 69%",
+    "rounded": "31%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Eastland":{
+    "fir": "18.0%",
+    "Population under 18 years old": "3 ,887",
+    "cir": "25.1%",
+    "Estimated number food insecure children": "980 99%",
+    "rounded": "1%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Ector":{  
+    "fir": "10.3%",
+    "Population under 18 years old": "4 5,672",
+    "cir": "21.1%",
+    "Estimated number food insecure children": "9,640 61%",
+    "rounded": "39%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Edwards":{
+
+    "fir": "6.6%",
+    "Population under 18 years old": "3 33",
+    "cir": "19.0%",
+    "Estimated number food insecure children": "60 100%",
+    "rounded": "0%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Ellis":{  
+    "fir": "14.2%",
+    "Population under 18 years old": "4 3,658",
+    "cir": "20.5%",
+    "Estimated number food insecure children": "8,930 64%",
+    "rounded": "36%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "El Paso":{
+
+    "fir": "8.5%",
+    "Population under 18 years old": "2 36,974",
+    "cir": "23.3%",
+    "Estimated number food insecure children": "55,120 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Erath":{  
+    "fir": "19.1%",
+    "Population under 18 years old": "8 ,600",
+    "cir": "23.7%",
+    "Estimated number food insecure children": "2,040 78%",
+    "rounded": "22%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Falls":{  
+    "fir": "20.8%",
+    "Population under 18 years old": "3 ,682",
+    "cir": "27.5%",
+    "Estimated number food insecure children": "1,010 75%",
+    "rounded": "25%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Fannin":{
+    "fir": "17.9%",
+    "Population under 18 years old": "7 ,128",
+    "cir": "23.6%",
+    "Estimated number food insecure children": "1,680 80%",
+    "rounded": "20%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Fayette":{
+
+    "fir": "14.3%",
+    "Population under 18 years old": "5 ,257",
+    "cir": "19.8%",
+    "Estimated number food insecure children": "1,040 61%",
+    "rounded": "39%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Fisher":{
+    "fir": "15.3%",
+    "Population under 18 years old": "7 91",
+    "cir": "23.3%",
+    "Estimated number food insecure children": "180 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Floyd":{  
+    "fir": "12.0%",
+    "Population under 18 years old": "1 ,664",
+    "cir": "24.9%",
+    "Estimated number food insecure children": "410 83%",
+    "rounded": "17%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Foard":{  
+    "fir": "13.4%",
+    "Population under 18 years old": "2 63",
+    "cir": "20.1%",
+    "Estimated number food insecure children": "50 89%",
+    "rounded": "11%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Fort Ben":{
+    "fir": "14.8%",
+    "Population under 18 years old": "1 91,947",
+    "cir": "19.1%",
+    "Estimated number food insecure children": "36,750 47%",
+    "rounded": "53%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Franklin":{
+    "fir": "18.0%",
+    "Population under 18 years old": "2 ,578",
+    "cir": "26.1%",
+    "Estimated number food insecure children": "670 81%",
+    "rounded": "19%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Freeston":{
+    "fir": "19.9%",
+    "Population under 18 years old": "4 ,456",
+    "cir": "27.0%",
+    "Estimated number food insecure children": "1,200 63%",
+    "rounded": "37%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Frio":{  
+    "fir": "8.2%",
+    "Population under 18 years old": "4 ,522",
+    "cir": "22.6%",
+    "Estimated number food insecure children": "1,020 80%",
+    "rounded": "20%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Gaines":{
+    "fir": "10.4%",
+    "Population under 18 years old": "6 ,858",
+    "cir": "19.3%",
+    "Estimated number food insecure children": "1,320 76%",
+    "rounded": "25%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Galvesto":{
+    "fir": "17.0%",
+    "Population under 18 years old": "7 7,531",
+    "cir": "22.4%",
+    "Estimated number food insecure children": "17,400 59%",
+    "rounded": "41%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Garza":{  
+    "fir": "9.5%",
+    "Population under 18 years old": "1 ,215",
+    "cir": "22.1%",
+    "Estimated number food insecure children": "270 66%",
+    "rounded": "34%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Gillespi":{
+    "fir": "12.8%",
+    "Population under 18 years old": "5 ,093",
+    "cir": "20.7%",
+    "Estimated number food insecure children": "1,060 70%",
+    "rounded": "30%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Glasscoc":{
+    "fir": "9.8%",
+    "Population under 18 years old": "3 53",
+    "cir": "16.1%",
+    "Estimated number food insecure children": "60 47%",
+    "rounded": "54%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Goliad":{
+    "fir": "13.8%",
+    "Population under 18 years old": "1 ,616",
+    "cir": "24.8%",
+    "Estimated number food insecure children": "400 55%",
+    "rounded": "45%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Gonzales":{
+    "fir": "12.2%",
+    "Population under 18 years old": "5 ,472",
+    "cir": "21.9%",
+    "Estimated number food insecure children": "1,200 66%",
+    "rounded": "34%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Gray":{  
+    "fir": "16.4%",
+    "Population under 18 years old": "5 ,832",
+    "cir": "24.8%",
+    "Estimated number food insecure children": "1,450 63%",
+    "rounded": "37%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Grayson":{
+
+    "fir": "17.9%",
+    "Population under 18 years old": "2 9,612",
+    "cir": "23.9%",
+    "Estimated number food insecure children": "7,060 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Gregg":{  
+    "fir": "21.3%",
+    "Population under 18 years old": "3 1,849",
+    "cir": "25.7%",
+    "Estimated number food insecure children": "8,200 77%",
+    "rounded": "23%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Grimes":{
+    "fir": "19.2%",
+    "Population under 18 years old": "6 ,050",
+    "cir": "27.5%",
+    "Estimated number food insecure children": "1,660 76%",
+    "rounded": "24%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Guadalup":{
+    "fir": "11.5%",
+    "Population under 18 years old": "3 8,594",
+    "cir": "19.5%",
+    "Estimated number food insecure children": "7,530 60%",
+    "rounded": "40%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hale":{  
+    "fir": "12.7%",
+    "Population under 18 years old": "9 ,804",
+    "cir": "24.5%",
+    "Estimated number food insecure children": "2,400 76%",
+    "rounded": "24%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hall":{  
+    "fir": "20.5%",
+    "Population under 18 years old": "7 56",
+    "cir": "30.0%",
+    "Estimated number food insecure children": "230 90%",
+    "rounded": "10%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hamilton":{
+    "fir": "17.2%",
+    "Population under 18 years old": "1 ,676",
+    "cir": "22.9%",
+    "Estimated number food insecure children": "380 73%",
+    "rounded": "27%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hansford":{
+    "fir": "11.8%",
+    "Population under 18 years old": "1 ,629",
+    "cir": "24.1%",
+    "Estimated number food insecure children": "390 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hardeman":{
+    "fir": "16.2%",
+    "Population under 18 years old": "9 36",
+    "cir": "21.5%",
+    "Estimated number food insecure children": "200 70%",
+    "rounded": "30%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hardin":{
+    "fir": "18.0%",
+    "Population under 18 years old": "1 3,857",
+    "cir": "23.9%",
+    "Estimated number food insecure children": "3,320 56%",
+    "rounded": "44%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Harris":{
+    "fir": "16.6%",
+    "Population under 18 years old": "1 ,207,399",
+    "cir": "23.5%",
+    "Estimated number food insecure children": "284,240 68%",
+    "rounded": "32%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Harrison":{
+    "fir": "21.0%",
+    "Population under 18 years old": "1 6,853",
+    "cir": "25.7%",
+    "Estimated number food insecure children": "4,330 70%",
+    "rounded": "30%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hartley":{
+
+    "fir": "13.3%",
+    "Population under 18 years old": "1 ,285",
+    "cir": "18.6%",
+    "Estimated number food insecure children": "240 46%",
+    "rounded": "54%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Haskell":{
+
+    "fir": "16.1%",
+    "Population under 18 years old": "8 71",
+    "cir": "28.6%",
+    "Estimated number food insecure children": "250 78%",
+    "rounded": "22%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hays":{  
+    "fir": "13.4%",
+    "Population under 18 years old": "4 3,820",
+    "cir": "19.4%",
+    "Estimated number food insecure children": "8,520 60%",
+    "rounded": "41%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hemphill":{
+    "fir": "11.9%",
+    "Population under 18 years old": "1 ,326",
+    "cir": "21.6%",
+    "Estimated number food insecure children": "290 76%",
+    "rounded": "24%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Henderso":{
+    "fir": "18.8%",
+    "Population under 18 years old": "1 7,497",
+    "cir": "27.0%",
+    "Estimated number food insecure children": "4,720 78%",
+    "rounded": "22%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hidalgo":{
+
+    "fir": "10.1%",
+    "Population under 18 years old": "2 79,428",
+    "cir": "28.6%",
+    "Estimated number food insecure children": "79,810 77%",
+    "rounded": "23%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hill":{  
+    "fir": "17.6%",
+    "Population under 18 years old": "8 ,263",
+    "cir": "25.9%",
+    "Estimated number food insecure children": "2,140 76%",
+    "rounded": "24%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hockley":{
+
+    "fir": "12.2%",
+    "Population under 18 years old": "6 ,200",
+    "cir": "21.1%",
+    "Estimated number food insecure children": "1,310 70%",
+    "rounded": "30%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hood":{  
+    "fir": "15.9%",
+    "Population under 18 years old": "1 1,445",
+    "cir": "23.4%",
+    "Estimated number food insecure children": "2,680 71%",
+    "rounded": "30%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hopkins":{
+
+    "fir": "18.2%",
+    "Population under 18 years old": "9 ,034",
+    "cir": "25.8%",
+    "Estimated number food insecure children": "2,330 77%",
+    "rounded": "23%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Houston":{
+
+    "fir": "23.3%",
+    "Population under 18 years old": "4 ,388",
+    "cir": "28.8%",
+    "Estimated number food insecure children": "1,260 72%",
+    "rounded": "28%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Howard":{
+    "fir": "13.8%",
+    "Population under 18 years old": "8 ,070",
+    "cir": "22.2%",
+    "Estimated number food insecure children": "1,790 80%",
+    "rounded": "20%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hudspeth":{
+    "fir": "12.3%",
+    "Population under 18 years old": "8 75",
+    "cir": "31.6%",
+    "Estimated number food insecure children": "280 76%",
+    "rounded": "24%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hunt":{  
+    "fir": "18.7%",
+    "Population under 18 years old": "2 1,415",
+    "cir": "24.8%",
+    "Estimated number food insecure children": "5,320 72%",
+    "rounded": "28%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Hutchins":{
+    "fir": "16.1%",
+    "Population under 18 years old": "5 ,724",
+    "cir": "24.6%",
+    "Estimated number food insecure children": "1,410 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Irion":{  
+    "fir": "13.0%",
+    "Population under 18 years old": "4 16",
+    "cir": "21.9%",
+    "Estimated number food insecure children": "90 72%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Jack":{  
+    "fir": "16.9%",
+    "Population under 18 years old": "1 ,918",
+    "cir": "25.7%",
+    "Estimated number food insecure children": "490 76%",
+    "rounded": "24%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Jackson":{
+
+    "fir": "14.1%",
+    "Population under 18 years old": "3 ,787",
+    "cir": "21.1%",
+    "Estimated number food insecure children": "800 64%",
+    "rounded": "36%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Jasper":{
+    "fir": "21.8%",
+    "Population under 18 years old": "8 ,645",
+    "cir": "26.9%",
+    "Estimated number food insecure children": "2,320 65%",
+    "rounded": "35%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Jeff Dav":{
+    "fir": "9.8%",
+    "Population under 18 years old": "4 16",
+    "cir": "15.8%",
+    "Estimated number food insecure children": "70 95%",
+    "rounded": "5%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Jefferso":{
+    "fir": "23.5%",
+    "Population under 18 years old": "6 0,257",
+    "cir": "27.1%",
+    "Estimated number food insecure children": "16,320 69%",
+    "rounded": "31%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Jim Hogg":{
+    "fir": "7.3%",
+    "Population under 18 years old": "1 ,482",
+    "cir": "25.8%",
+    "Estimated number food insecure children": "380 64%",
+    "rounded": "36%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Jim Well":{
+    "fir": "10.1%",
+    "Population under 18 years old": "1 1,770",
+    "cir": "26.3%",
+    "Estimated number food insecure children": "3,090 64%",
+    "rounded": "36%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Johnson":{
+
+    "fir": "14.8%",
+    "Population under 18 years old": "4 1,561",
+    "cir": "22.2%",
+    "Estimated number food insecure children": "9,240 68%",
+    "rounded": "32%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Jones":{  
+    "fir": "17.3%",
+    "Population under 18 years old": "3 ,173",
+    "cir": "26.2%",
+    "Estimated number food insecure children": "830 74%",
+    "rounded": "27%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Karnes":{
+    "fir": "13.5%",
+    "Population under 18 years old": "3 ,064",
+    "cir": "26.8%",
+    "Estimated number food insecure children": "820 67%",
+    "rounded": "33%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Kaufman":{
+
+    "fir": "15.8%",
+    "Population under 18 years old": "3 1,087",
+    "cir": "21.8%",
+    "Estimated number food insecure children": "6,770 66%",
+    "rounded": "35%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Kendall":{
+
+    "fir": "11.8%",
+    "Population under 18 years old": "9 ,176",
+    "cir": "18.3%",
+    "Estimated number food insecure children": "1,680 47%",
+    "rounded": "53%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Kenedy":{
+    "fir": "12.5%",
+    "Population under 18 years old": "1 54",
+    "cir": "26.8%",
+    "Estimated number food insecure children": "40 92%",
+    "rounded": "8%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Kent":{  
+    "fir": "14.5%",
+    "Population under 18 years old": "1 35",
+    "cir": "23.5%",
+    "Estimated number food insecure children": "30 52%",
+    "rounded": "48%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Kerr":{  
+    "fir": "15.1%",
+    "Population under 18 years old": "9 ,831",
+    "cir": "24.2%",
+    "Estimated number food insecure children": "2,380 75%",
+    "rounded": "25%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Kimble":{
+    "fir": "15.8%",
+    "Population under 18 years old": "7 55",
+    "cir": "25.6%",
+    "Estimated number food insecure children": "190 89%",
+    "rounded": "12%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "King":{  
+    "fir": "15.5%",
+    "Population under 18 years old": "5 6",
+    "cir": "19.9%",
+    "Estimated number food insecure children": "10 53%",
+    "rounded": "47%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Kinney":{
+    "fir": "9.9%",
+    "Population under 18 years old": "7 04",
+    "cir": "25.1%",
+    "Estimated number food insecure children": "180 80%",
+    "rounded": "20%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Kleberg":{
+
+    "fir": "12.2%",
+    "Population under 18 years old": "7 ,805",
+    "cir": "23.6%",
+    "Estimated number food insecure children": "1,840 65%",
+    "rounded": "35%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Knox":{  
+    "fir": "14.0%",
+    "Population under 18 years old": "1 ,003",
+    "cir": "22.6%",
+    "Estimated number food insecure children": "230 73%",
+    "rounded": "27%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Lamar":{  
+    "fir": "21.6%",
+    "Population under 18 years old": "1 1,726",
+    "cir": "27.3%",
+    "Estimated number food insecure children": "3,200 82%",
+    "rounded": "19%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Lamb":{  
+    "fir": "13.2%",
+    "Population under 18 years old": "3 ,838",
+    "cir": "24.9%",
+    "Estimated number food insecure children": "960 88%",
+    "rounded": "12%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Lampasas":{
+    "fir": "15.7%",
+    "Population under 18 years old": "4 ,944",
+    "cir": "23.2%",
+    "Estimated number food insecure children": "1,150 66%",
+    "rounded": "34%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "La Salle":{
+    "fir": "4.9%",
+    "Population under 18 years old": "1 ,826",
+    "cir": "20.8%",
+    "Estimated number food insecure children": "380 100%",
+    "rounded": "0%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Lavaca":{
+    "fir": "15.2%",
+    "Population under 18 years old": "4 ,603",
+    "cir": "21.0%",
+    "Estimated number food insecure children": "970 64%",
+    "rounded": "37%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Lee":{
+    "fir": "15.7%",
+    "Population under 18 years old": "3 ,861",
+    "cir": "22.1%",
+    "Estimated number food insecure children": "850 65%",
+    "rounded": "35%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Leon":{  
+    "fir": "18.2%",
+    "Population under 18 years old": "3 ,861",
+    "cir": "26.9%",
+    "Estimated number food insecure children": "1,040 82%",
+    "rounded": "19%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Liberty":{
+
+    "fir": "18.7%",
+    "Population under 18 years old": "1 9,796",
+    "cir": "26.0%",
+    "Estimated number food insecure children": "5,160 73%",
+    "rounded": "27%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Limeston":{
+    "fir": "20.2%",
+    "Population under 18 years old": "5 ,450",
+    "cir": "28.1%",
+    "Estimated number food insecure children": "1,530 75%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Lipscomb":{
+    "fir": "12.5%",
+    "Population under 18 years old": "9 55",
+    "cir": "20.9%",
+    "Estimated number food insecure children": "200 60%",
+    "rounded": "40%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Live Oak":{
+    "fir": "13.2%",
+    "Population under 18 years old": "2 ,472",
+    "cir": "23.7%",
+    "Estimated number food insecure children": "580 57%",
+    "rounded": "43%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Llano":{  
+    "fir": "16.6%",
+    "Population under 18 years old": "3 ,016",
+    "cir": "24.3%",
+    "Estimated number food insecure children": "730 73%",
+    "rounded": "27%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Loving":{
+    "fir": "18.7%",
+    "Population under 18 years old": 6,
+    "cir": "*",
+    "Estimated number food insecure children": "",
+    "rounded": "",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Lubbock":{
+
+    "fir": "16.2%",
+    "Population under 18 years old": "71,082",
+    "cir": "22.1%",
+    "Estimated number food insecure children": "15,710",
+    "rounded": "71%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "29%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Lynn":{  
+    "fir": "12.3%",
+    "Population under 18 years old": "1 ,503",
+    "cir": "24.8%",
+    "Estimated number food insecure children": 370,
+    "rounded": "87%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "13%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "McCulloc":{
+    "fir": "14.9%",
+    "Population under 18 years old": "1 ,975",
+    "cir": "24.9%",
+    "Estimated number food insecure children": 490,
+    "rounded": "78%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "22%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "McLennan":{
+    "fir": "18.9%",
+    "Population under 18 years old": "60,492",
+    "cir": "24.1%",
+    "Estimated number food insecure children": "14,570",
+    "rounded": "75%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "25%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "McMullen":{
+    "fir": "7.5%",
+    "Population under 18 years old": "1 64",
+    "cir": "15.9%",
+    "Estimated number food insecure children": 30,
+    "rounded": "71%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "29%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Madison":{
+
+    "fir": "18.8%",
+    "Population under 18 years old": "2 ,071",
+    "cir": "25.3%",
+    "Estimated number food insecure children": 520,
+    "rounded": "73%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "27%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Marion":{
+    "fir": "24.0%",
+    "Population under 18 years old": "1 ,859",
+    "cir": "29.4%",
+    "Estimated number food insecure children": 550,
+    "rounded": "63%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "37%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Martin":{
+    "fir": "9.3%",
+    "Population under 18 years old": "1 ,628",
+    "cir": "19.2%",
+    "Estimated number food insecure children": 310,
+    "rounded": "88%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "12%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Mason":{  
+    "fir": "14.1%",
+    "Population under 18 years old": "7 86",
+    "cir": "24.1%",
+    "Estimated number food insecure children": 190,
+    "rounded": "87%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "13%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Matagord":{
+    "fir": "17.2%",
+    "Population under 18 years old": "9 ,576",
+    "cir": "28.5%",
+    "Estimated number food insecure children": "2,730",
+    "rounded": "77%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "23%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Maverick":{
+    "fir": "8.9%",
+    "Population under 18 years old": "18,325",
+    "cir": "27.9%",
+    "Estimated number food insecure children": "5,100",
+    "rounded": "82%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "18%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Medina":{
+    "fir": "9.3%",
+    "Population under 18 years old": "11,495",
+    "cir": "20.6%",
+    "Estimated number food insecure children": "2,360",
+    "rounded": "59%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "41%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Menard":{
+    "fir": "12.9%",
+    "Population under 18 years old": "5 13",
+    "cir": "21.2%",
+    "Estimated number food insecure children": 110,
+    "rounded": "47%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "54%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Midland":{
+
+    "fir": "10.7%",
+    "Population under 18 years old": "43,372",
+    "cir": "18.3%",
+    "Estimated number food insecure children": "7,950",
+    "rounded": "51%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "49%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Milam":{  
+    "fir": "17.0%",
+    "Population under 18 years old": "6 ,075",
+    "cir": "23.2%",
+    "Estimated number food insecure children": "1,410",
+    "rounded": "82%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "18%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Mills":{  
+    "fir": "14.8%",
+    "Population under 18 years old": "1 ,192",
+    "cir": "23.7%",
+    "Estimated number food insecure children": 280,
+    "rounded": "63%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "37%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Mitchell":{
+    "fir": "13.3%",
+    "Population under 18 years old": "1 ,724",
+    "cir": "22.1%",
+    "Estimated number food insecure children": 380,
+    "rounded": "55%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "46%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Montague":{
+    "fir": "17.9%",
+    "Population under 18 years old": "4 ,449",
+    "cir": "26.2%",
+    "Estimated number food insecure children": "1,170",
+    "rounded": "72%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "28%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Montgome":{
+    "fir": "14.6%",
+    "Population under 18 years old": "1 39,106",
+    "cir": "21.2%",
+    "Estimated number food insecure children": "29,420",
+    "rounded": "58%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "42%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Moore":{  
+    "fir": "10.8%",
+    "Population under 18 years old": "7 ,086",
+    "cir": "21.4%",
+    "Estimated number food insecure children": "1,510",
+    "rounded": "75%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "25%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Morris":{
+    "fir": "24.8%",
+    "Population under 18 years old": "2 ,890",
+    "cir": "30.4%",
+    "Estimated number food insecure children": 880,
+    "rounded": "65%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "36%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Motley":{
+    "fir": "17.3%",
+    "Population under 18 years old": "2 08",
+    "cir": "22.4%",
+    "Estimated number food insecure children": 50,
+    "rounded": "92%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "8%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Nacogdoc":{
+    "fir": "22.2%",
+    "Population under 18 years old": "15,437",
+    "cir": "25.7%",
+    "Estimated number food insecure children": "3,970",
+    "rounded": "76%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "24%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Navarro":{
+
+    "fir": "17.9%",
+    "Population under 18 years old": "12,693",
+    "cir": "25.4%",
+    "Estimated number food insecure children": "3,230",
+    "rounded": "77%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "24%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Newton":{
+    "fir": "22.9%",
+    "Population under 18 years old": "3 ,030",
+    "cir": "27.7%",
+    "Estimated number food insecure children": 840,
+    "rounded": "63%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "37%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Nolan":{  
+    "fir": "14.9%",
+    "Population under 18 years old": "3 ,793",
+    "cir": "24.3%",
+    "Estimated number food insecure children": 920,
+    "rounded": "74%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "26%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Nueces":{
+    "fir": "11.0%",
+    "Population under 18 years old": "89,933",
+    "cir": "22.6%",
+    "Estimated number food insecure children": "20,320",
+    "rounded": "65%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "35%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Ochiltre":{
+    "fir": "10.0%",
+    "Population under 18 years old": "3 ,393",
+    "cir": "20.4%",
+    "Estimated number food insecure children": 690,
+    "rounded": "61%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "39%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Oldham":{
+    "fir": "15.8%",
+    "Population under 18 years old": "7 03",
+    "cir": "21.9%",
+    "Estimated number food insecure children": 150,
+    "rounded": "38%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "62%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Orange":{
+    "fir": "19.8%",
+    "Population under 18 years old": "20,733",
+    "cir": "26.1%",
+    "Estimated number food insecure children": "5,400",
+    "rounded": "69%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "31%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Palo Pin":{
+    "fir": "17.7%",
+    "Population under 18 years old": "6 ,636",
+    "cir": "25.9%",
+    "Estimated number food insecure children": "1,720",
+    "rounded": "82%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "18%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Panola":{
+    "fir": "20.5%",
+    "Population under 18 years old": "5 ,709",
+    "cir": "25.7%",
+    "Estimated number food insecure children": "1,470",
+    "rounded": "68%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "32%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Parker":{
+    "fir": "14.8%",
+    "Population under 18 years old": "30,385",
+    "cir": "21.1%",
+    "Estimated number food insecure children": "6,410",
+    "rounded": "58%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "42%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Parmer":{
+    "fir": "8.2%",
+    "Population under 18 years old": "2 ,924",
+    "cir": "20.8%",
+    "Estimated number food insecure children": 610,
+    "rounded": "75%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "25%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Pecos":{  
+    "fir": "7.0%",
+    "Population under 18 years old": "3 ,870",
+    "cir": "18.3%",
+    "Estimated number food insecure children": 710,
+    "rounded": "54%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "46%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Polk":{  
+    "fir": "19.4%",
+    "Population under 18 years old": "9 ,563",
+    "cir": "27.7%",
+    "Estimated number food insecure children": "2,650",
+    "rounded": "79%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "21%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Potter":{
+    "fir": "16.6%",
+    "Population under 18 years old": "33,675",
+    "cir": "24.0%",
+    "Estimated number food insecure children": "8,090",
+    "rounded": "78%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "22%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Presidio":{
+    "fir": "11.3%",
+    "Population under 18 years old": "2 ,012",
+    "cir": "28.5%",
+    "Estimated number food insecure children": 570,
+    "rounded": "93%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "7%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Rains":{  
+    "fir": "16.0%",
+    "Population under 18 years old": "2 ,275",
+    "cir": "22.3%",
+    "Estimated number food insecure children": 510,
+    "rounded": "75%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "25%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Randall":{
+
+    "fir": "14.2%",
+    "Population under 18 years old": "31,366",
+    "cir": "19.7%",
+    "Estimated number food insecure children": "6,180",
+    "rounded": "52%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "48%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Reagan":{
+    "fir": "9.5%",
+    "Population under 18 years old": "1 ,007",
+    "cir": "23.8%",
+    "Estimated number food insecure children": 240,
+    "rounded": "63%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "37%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Real":{  
+    "fir": "16.9%",
+    "Population under 18 years old": "6 42",
+    "cir": "27.0%",
+    "Estimated number food insecure children": 170,
+    "rounded": "93%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "8%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Red Rive":{
+    "fir": "21.1%",
+    "Population under 18 years old": "2 ,498",
+    "cir": "25.4%",
+    "Estimated number food insecure children": 630,
+    "rounded": "80%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "20%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Reeves":{
+    "fir": "7.2%",
+    "Population under 18 years old": "3 ,276",
+    "cir": "19.3%",
+    "Estimated number food insecure children": 630,
+    "rounded": "63%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "37%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Refugio":{
+
+    "fir": "12.5%",
+    "Population under 18 years old": "1 ,721",
+    "cir": "24.5%",
+    "Estimated number food insecure children": 420,
+    "rounded": "61%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "39%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Roberts":{
+
+    "fir": "14.1%",
+    "Population under 18 years old": "2 85",
+    "cir": "24.6%",
+    "Estimated number food insecure children": 70,
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "71%",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Robertso":{
+    "fir": "18.3%",
+    "Population under 18 years old": "4 ,040",
+    "cir": "23.0%",
+    "Estimated number food insecure children": "930 68%",
+    "rounded": "32%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Rockwall":{
+    "fir": "12.7%",
+    "Population under 18 years old": "2 4,533",
+    "cir": "18.1%",
+    "Estimated number food insecure children": "4,440 47%",
+    "rounded": "53%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Runnels":{
+
+    "fir": "13.9%",
+    "Population under 18 years old": "2 ,475",
+    "cir": "23.5%",
+    "Estimated number food insecure children": "580 65%",
+    "rounded": "35%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Rusk":{  
+    "fir": "19.3%",
+    "Population under 18 years old": "1 2,413",
+    "cir": "25.3%",
+    "Estimated number food insecure children": "3,130 72%",
+    "rounded": "28%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Sabine":{
+    "fir": "23.1%",
+    "Population under 18 years old": "2 ,156",
+    "cir": "35.3%",
+    "Estimated number food insecure children": "760 79%",
+    "rounded": "21%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "San Augu":{
+    "fir": "25.6%",
+    "Population under 18 years old": "1 ,745",
+    "cir": "32.9%",
+    "Estimated number food insecure children": "570 88%",
+    "rounded": "12%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "San Jaci":{
+    "fir": "18.7%",
+    "Population under 18 years old": "6 ,169",
+    "cir": "25.1%",
+    "Estimated number food insecure children": "1,550 85%",
+    "rounded": "15%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "San Patr":{
+    "fir": "11.2%",
+    "Population under 18 years old": "1 8,210",
+    "cir": "23.5%",
+    "Estimated number food insecure children": "4,280 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "San Saba":{
+    "fir": "15.1%",
+    "Population under 18 years old": "1 ,202",
+    "cir": "25.8%",
+    "Estimated number food insecure children": "310 86%",
+    "rounded": "14%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Schleich":{
+    "fir": "9.6%",
+    "Population under 18 years old": "9 21",
+    "cir": "20.5%",
+    "Estimated number food insecure children": "190 44%",
+    "rounded": "56%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Scurry":{
+    "fir": "11.6%",
+    "Population under 18 years old": "4 ,458",
+    "cir": "19.3%",
+    "Estimated number food insecure children": "860 81%",
+    "rounded": "19%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Shackelf":{
+    "fir": "17.1%",
+    "Population under 18 years old": "8 12",
+    "cir": "24.0%",
+    "Estimated number food insecure children": "190 57%",
+    "rounded": "43%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Shelby":{
+    "fir": "21.3%",
+    "Population under 18 years old": "6 ,919",
+    "cir": "28.2%",
+    "Estimated number food insecure children": "1,950 88%",
+    "rounded": "12%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Sherman":{
+
+    "fir": "10.1%",
+    "Population under 18 years old": "7 48",
+    "cir": "20.5%",
+    "Estimated number food insecure children": "150 78%",
+    "rounded": "22%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Smith":{  
+    "fir": "19.2%",
+    "Population under 18 years old": "5 4,861",
+    "cir": "23.7%",
+    "Estimated number food insecure children": "13,030 72%",
+    "rounded": "28%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Somervel":{
+    "fir": "16.6%",
+    "Population under 18 years old": "2 ,052",
+    "cir": "24.7%",
+    "Estimated number food insecure children": "510 69%",
+    "rounded": "31%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Starr":{  
+    "fir": "12.5%",
+    "Population under 18 years old": "2 1,013",
+    "cir": "33.9%",
+    "Estimated number food insecure children": "7,130 83%",
+    "rounded": "17%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Stephens":{
+    "fir": "17.1%",
+    "Population under 18 years old": "2 ,202",
+    "cir": "27.8%",
+    "Estimated number food insecure children": "610 80%",
+    "rounded": "20%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Sterling":{
+    "fir": "11.8%",
+    "Population under 18 years old": "3 39",
+    "cir": "25.2%",
+    "Estimated number food insecure children": "90 80%",
+    "rounded": "20%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Stonewal":{
+    "fir": "16.4%",
+    "Population under 18 years old": "3 24",
+    "cir": "25.4%",
+    "Estimated number food insecure children": "80 65%",
+    "rounded": "35%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Sutton":{
+    "fir": "9.6%",
+    "Population under 18 years old": "1 ,087",
+    "cir": "21.6%",
+    "Estimated number food insecure children": "240 45%",
+    "rounded": "55%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Swisher":{
+
+    "fir": "15.2%",
+    "Population under 18 years old": "1 ,959",
+    "cir": "25.9%",
+    "Estimated number food insecure children": "510 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Tarrant":{
+
+    "fir": "16.6%",
+    "Population under 18 years old": "5 27,866",
+    "cir": "21.8%",
+    "Estimated number food insecure children": "115,120 66%",
+    "rounded": "34%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Taylor":{
+    "fir": "17.5%",
+    "Population under 18 years old": "3 3,217",
+    "cir": "23.1%",
+    "Estimated number food insecure children": "7,680 70%",
+    "rounded": "30%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Terrell":{
+
+    "fir": "10.2%",
+    "Population under 18 years old": "1 10",
+    "cir": "23.8%",
+    "Estimated number food insecure children": "30 58%",
+    "rounded": "42%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Terry":{  
+    "fir": "10.5%",
+    "Population under 18 years old": "3 ,442",
+    "cir": "21.2%",
+    "Estimated number food insecure children": "730 100%",
+    "rounded": "0%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Throckmo":{
+    "fir": "15.7%",
+    "Population under 18 years old": "2 79",
+    "cir": "20.6%",
+    "Estimated number food insecure children": "60 50%",
+    "rounded": "51%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Titus":{  
+    "fir": "15.9%",
+    "Population under 18 years old": "9 ,533",
+    "cir": "25.6%",
+    "Estimated number food insecure children": "2,450 80%",
+    "rounded": "20%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Tom Gree":{
+    "fir": "13.7%",
+    "Population under 18 years old": "2 7,332",
+    "cir": "21.7%",
+    "Estimated number food insecure children": "5,920 67%",
+    "rounded": "33%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Travis":{
+    "fir": "15.2%",
+    "Population under 18 years old": "2 64,425",
+    "cir": "20.7%",
+    "Estimated number food insecure children": "54,640 63%",
+    "rounded": "37%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Trinity":{
+
+    "fir": "19.2%",
+    "Population under 18 years old": "2 ,888",
+    "cir": "26.4%",
+    "Estimated number food insecure children": "760 84%",
+    "rounded": "16%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Tyler":{  
+    "fir": "19.8%",
+    "Population under 18 years old": "4 ,143",
+    "cir": "27.4%",
+    "Estimated number food insecure children": "1,140 68%",
+    "rounded": "32%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Upshur":{
+    "fir": "18.9%",
+    "Population under 18 years old": "9 ,775",
+    "cir": "25.2%",
+    "Estimated number food insecure children": "2,460 65%",
+    "rounded": "35%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Upton":{  
+    "fir": "12.4%",
+    "Population under 18 years old": "1 ,066",
+    "cir": "23.3%",
+    "Estimated number food insecure children": "250 61%",
+    "rounded": "39%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Uvalde":{
+    "fir": "8.9%",
+    "Population under 18 years old": "7 ,580",
+    "cir": "24.1%",
+    "Estimated number food insecure children": "1,820 85%",
+    "rounded": "15%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Val Verd":{
+    "fir": "8.5%",
+    "Population under 18 years old": "1 4,277",
+    "cir": "23.0%",
+    "Estimated number food insecure children": "3,290 74%",
+    "rounded": "27%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Van Zand":{
+    "fir": "17.3%",
+    "Population under 18 years old": "1 2,294",
+    "cir": "24.6%",
+    "Estimated number food insecure children": "3,030 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Victoria":{
+    "fir": "12.9%",
+    "Population under 18 years old": "2 3,538",
+    "cir": "22.3%",
+    "Estimated number food insecure children": "5,250 69%",
+    "rounded": "31%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Walker":{
+    "fir": "23.3%",
+    "Population under 18 years old": "1 0,834",
+    "cir": "24.7%",
+    "Estimated number food insecure children": "2,680 64%",
+    "rounded": "36%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Waller":{
+    "fir": "19.2%",
+    "Population under 18 years old": "1 1,306",
+    "cir": "24.0%",
+    "Estimated number food insecure children": "2,710 78%",
+    "rounded": "22%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Ward":{  
+    "fir": "11.8%",
+    "Population under 18 years old": "3 ,152",
+    "cir": "22.3%",
+    "Estimated number food insecure children": "700 52%",
+    "rounded": "48%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Washingt":{
+    "fir": "18.3%",
+    "Population under 18 years old": "7 ,533",
+    "cir": "23.9%",
+    "Estimated number food insecure children": "1,800 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Webb":{  
+    "fir": "8.1%",
+    "Population under 18 years old": "9 0,863",
+    "cir": "25.9%",
+    "Estimated number food insecure children": "23,500 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Wharton":{
+
+    "fir": "15.3%",
+    "Population under 18 years old": "1 0,773",
+    "cir": "24.1%",
+    "Estimated number food insecure children": "2,600 75%",
+    "rounded": "25%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Wheeler":{
+
+    "fir": "16.0%",
+    "Population under 18 years old": "1 ,468",
+    "cir": "25.0%",
+    "Estimated number food insecure children": "370 80%",
+    "rounded": "20%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Wichita":{
+
+    "fir": "19.2%",
+    "Population under 18 years old": "2 9,780",
+    "cir": "25.0%",
+    "Estimated number food insecure children": "7,450 74%",
+    "rounded": "26%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Wilbarge":{
+    "fir": "16.8%",
+    "Population under 18 years old": "3 ,087",
+    "cir": "23.7%",
+    "Estimated number food insecure children": "730 83%",
+    "rounded": "17%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Willacy":{
+
+    "fir": "13.5%",
+    "Population under 18 years old": "5 ,507",
+    "cir": "33.6%",
+    "Estimated number food insecure children": "1,850 83%",
+    "rounded": "18%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Williams":{
+    "fir": "13.0%",
+    "Population under 18 years old": "1 32,887",
+    "cir": "18.2%",
+    "Estimated number food insecure children": "24,170 45%",
+    "rounded": "55%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Wilson":{
+    "fir": "9.7%",
+    "Population under 18 years old": "1 1,524",
+    "cir": "19.1%",
+    "Estimated number food insecure children": "2,210 48%",
+    "rounded": "52%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Winkler":{
+
+    "fir": "11.0%",
+    "Population under 18 years old": "2 ,313",
+    "cir": "23.7%",
+    "Estimated number food insecure children": "550 64%",
+    "rounded": "36%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Wise":{  
+    "fir": "15.0%",
+    "Population under 18 years old": "1 5,699",
+    "cir": "23.7%",
+    "Estimated number food insecure children": "3,720 72%",
+    "rounded": "28%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Wood":{  
+    "fir": "17.3%",
+    "Population under 18 years old": "8 ,471",
+    "cir": "24.4%",
+    "Estimated number food insecure children": "2,070 80%",
+    "rounded": "21%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Yoakum":{
+    "fir": "7.0%",
+    "Population under 18 years old": "2 ,684",
+    "cir": "18.8%",
+    "Estimated number food insecure children": "510 70%",
+    "rounded": "30%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Young":{  
+    "fir": "15.6%",
+    "Population under 18 years old": "4 ,409",
+    "cir": "23.8%",
+    "Estimated number food insecure children": "1,050 79%",
+    "rounded": "22%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Zapata":{
+    "fir": "10.8%",
+    "Population under 18 years old": "4 ,847",
+    "cir": "31.0%",
+    "Estimated number food insecure children": "1,500 71%",
+    "rounded": "29%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "Zavala":{
+    "fir": "13.9%",
+    "Population under 18 years old": "3 ,687",
+    "cir": "36.1%",
+    "Estimated number food insecure children": "1,330 84%",
+    "rounded": "16%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  },
+  "State To":{
+    "fir": "15.4%",
+    "Population under 18 years old": "7 ,291,694",
+    "cir": "23.0%",
+    "Estimated number food insecure children": "1,676,740 66%",
+    "rounded": "34%",
+    "Food insecure children likely income-eligible for federal nutrition assistance": "",
+    "Food insecure children likely NOT income-eligible for federal nutrition assistance": ""
+  }
+}
+}
