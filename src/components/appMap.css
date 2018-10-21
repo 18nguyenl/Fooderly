@@ -1,5 +1,11 @@
 .texas_svg{
+<<<<<<< HEAD
     /* border:solid red 2px; */
+=======
+    border: 0;
+    border-radius: 30px;
+    background-color: white;
+>>>>>>> 43a1bdfb3255a9addfe6cc02367b924f68f58101
     /* width: 90vw;
     height: 50vh; */
 }

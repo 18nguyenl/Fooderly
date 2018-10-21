@@ -1,0 +1,1532 @@
+{
+  "Anderson": {
+    "Population": "57,772",
+    "Insecurity rate": "19.3%",
+    "Food insecure individuals (rounded)": "11,160",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58% 4% 38%"
+  },
+  "Andrews": {
+    "Population": "17,215",
+    "Insecurity rate": "8.5%",
+    "Food insecure individuals (rounded)": "1,470",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61% 8% 31%"
+  },
+  "Angelina": {
+    "Population": "87,657",
+    "Insecurity rate": "19.9%",
+    "Food insecure individuals (rounded)": "17,480",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "67% 4% 29%"
+  },
+  "Aransas": {
+    "Population": "24,729",
+    "Insecurity rate": "15.6%",
+    "Food insecure individuals (rounded)": "3,860",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72% 3% 26%"
+  },
+  "Archer": {
+    "Population": "8 ,750",
+    "Insecurity rate": "14.8%",
+    "Food insecure individuals (rounded)": "1,290",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "50% 3% 46%"
+  },
+  "Armstrong": {
+    "Population": "1 ,913",
+    "Insecurity rate": "13.8%",
+    "Food insecure individuals (rounded)": 260,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "35% 5% 60%"
+  },
+  "Atascosa": {
+    "Population": "47,710",
+    "Insecurity rate": "8.5%",
+    "Food insecure individuals (rounded)": "4,060",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "85% 6% 10%"
+  },
+  "Austin": {
+    "Population": "29,107",
+    "Insecurity rate": "15.8%",
+    "Food insecure individuals (rounded)": "4,610",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "56% 4% 40%"
+  },
+  "Bailey": {
+    "Population": "7 ,131",
+    "Insecurity rate": "9.5%",
+    "Food insecure individuals (rounded)": 680,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100% 0% 0%"
+  },
+  "Bandera": {
+    "Population": "21,015",
+    "Insecurity rate": "15.1%",
+    "Food insecure individuals (rounded)": "3,180",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "52% 4% 45%"
+  },
+  "Bastrop": {
+    "Population": "78,286",
+    "Insecurity rate": "12.6%",
+    "Food insecure individuals (rounded)": "9,830",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70% 5% 25%"
+  },
+  "Baylor": {
+    "Population": "3 ,639",
+    "Insecurity rate": "16.6%",
+    "Food insecure individuals (rounded)": 610,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62% 1% 36%"
+  },
+  "Bee": {
+    "Population": "32,706",
+    "Insecurity rate": "14.1%",
+    "Food insecure individuals (rounded)": "4,620",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61% 7% 32%"
+  },
+  "Bell": {
+    "Population": "3 30,859",
+    "Insecurity rate": "19.3%",
+    "Food insecure individuals (rounded)": "63,930",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "60% 4% 35%"
+  },
+  "Bexar": {
+    "Population": "1 ,858,699",
+    "Insecurity rate": "11.1%",
+    "Food insecure individuals (rounded)": "205,500",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "82% 3% 16%"
+  },
+  "Blanco": {
+    "Population": "10,918",
+    "Insecurity rate": "13.3%",
+    "Food insecure individuals (rounded)": "1,450",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "59% 5% 36%"
+  },
+  "Borden": {
+    "Population": 698,
+    "Insecurity rate": "14.2%",
+    "Food insecure individuals (rounded)": 100,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "20% 0% 80%"
+  },
+  "Bosque": {
+    "Population": "17,953",
+    "Insecurity rate": "15.8%",
+    "Food insecure individuals (rounded)": "2,840",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "66% 6% 28%"
+  },
+  "Bowie": {
+    "Population": "93,483",
+    "Insecurity rate": "23.0%",
+    "Food insecure individuals (rounded)": "21,460",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "64% 4% 32%"
+  },
+  "Brazoria": {
+    "Population": "3 38,419",
+    "Insecurity rate": "14.5%",
+    "Food insecure individuals (rounded)": "48,970",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "47% 5% 48%"
+  },
+  "Brazos": {
+    "Population": "2 09,896",
+    "Insecurity rate": "21.3%",
+    "Food insecure individuals (rounded)": "44,640",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70% 0% 30%"
+  },
+  "Brewster": {
+    "Population": "9 ,188",
+    "Insecurity rate": "11.6%",
+    "Food insecure individuals (rounded)": "1,070",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "90% 9% 1%"
+  },
+  "Briscoe": {
+    "Population": "1 ,672",
+    "Insecurity rate": "13.6%",
+    "Food insecure individuals (rounded)": 230,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "84% 10% 6%"
+  },
+  "Brooks": {
+    "Population": "7 ,217",
+    "Insecurity rate": "12.5%",
+    "Food insecure individuals (rounded)": 900,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "96% 4% 0%"
+  },
+  "Brown": {
+    "Population": "37,935",
+    "Insecurity rate": "16.8%",
+    "Food insecure individuals (rounded)": "6,370",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "66% 5% 29%"
+  },
+  "Burleson": {
+    "Population": "17,417",
+    "Insecurity rate": "16.1%",
+    "Food insecure individuals (rounded)": "2,810",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "55% 7% 39%"
+  },
+  "Burnet": {
+    "Population": "44,584",
+    "Insecurity rate": "14.6%",
+    "Food insecure individuals (rounded)": "6,500",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61% 7% 33%"
+  },
+  "Caldwell": {
+    "Population": "39,848",
+    "Insecurity rate": "12.7%",
+    "Food insecure individuals (rounded)": "5,060",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "81% 6% 14%"
+  },
+  "Calhoun": {
+    "Population": "21,805",
+    "Insecurity rate": "12.7%",
+    "Food insecure individuals (rounded)": "2,770",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "67% 3% 30%"
+  },
+  "Callahan": {
+    "Population": "13,596",
+    "Insecurity rate": "17.8%",
+    "Food insecure individuals (rounded)": "2,420",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62% 5% 33%"
+  },
+  "Cameron": {
+    "Population": "4 18,785",
+    "Insecurity rate": "10.4%",
+    "Food insecure individuals (rounded)": "43,590",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100% 0% 0%"
+  },
+  "Camp": {
+    "Population": "12,631",
+    "Insecurity rate": "19.7%",
+    "Food insecure individuals (rounded)": "2,480",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "73% 4% 22%"
+  },
+  "Carson": {
+    "Population": "6 ,027",
+    "Insecurity rate": "13.0%",
+    "Food insecure individuals (rounded)": 790,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "43% 5% 52%"
+  },
+  "Cass": {
+    "Population": "30,346",
+    "Insecurity rate": "22.7%",
+    "Food insecure individuals (rounded)": "6,890",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "63% 6% 31%"
+  },
+  "Castro": {
+    "Population": "7 ,875",
+    "Insecurity rate": "8.4%",
+    "Food insecure individuals (rounded)": 660,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100% 0% 0%"
+  },
+  "Chambers": {
+    "Population": "38,072",
+    "Insecurity rate": "15.2%",
+    "Food insecure individuals (rounded)": "5,800",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "54% 6% 41%"
+  },
+  "Cherokee": {
+    "Population": "51,257",
+    "Insecurity rate": "19.2%",
+    "Food insecure individuals (rounded)": "9,850",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "73% 5% 22%"
+  },
+  "Childress": {
+    "Population": "7 ,059",
+    "Insecurity rate": "19.2%",
+    "Food insecure individuals (rounded)": "1,360",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58% 3% 38%"
+  },
+  "Clay": {
+    "Population": "10,367",
+    "Insecurity rate": "17.3%",
+    "Food insecure individuals (rounded)": "1,790",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "55% 5% 40%"
+  },
+  "Cochran": {
+    "Population": "2 ,955",
+    "Insecurity rate": "11.1%",
+    "Food insecure individuals (rounded)": 330,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "96% 1% 3%"
+  },
+  "Coke": {
+    "Population": "3 ,228",
+    "Insecurity rate": "16.0%",
+    "Food insecure individuals (rounded)": 520,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62% 8% 31%"
+  },
+  "Coleman": {
+    "Population": "8 ,476",
+    "Insecurity rate": "18.1%",
+    "Food insecure individuals (rounded)": "1,530",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "69% 5% 26%"
+  },
+  "Collin": {
+    "Population": "8 86,633",
+    "Insecurity rate": "15.0%",
+    "Food insecure individuals (rounded)": "132,720",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "35% 4% 61%"
+  },
+  "Collingsworth": {
+    "Population": "3 ,032",
+    "Insecurity rate": "14.3%",
+    "Food insecure individuals (rounded)": 430,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "88% 9% 3%"
+  },
+  "Colorado": {
+    "Population": "20,792",
+    "Insecurity rate": "14.9%",
+    "Food insecure individuals (rounded)": "3,100",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "65% 5% 30%"
+  },
+  "Comal": {
+    "Population": "1 24,234",
+    "Insecurity rate": "12.1%",
+    "Food insecure individuals (rounded)": "15,050",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "50% 4% 46%"
+  },
+  "Comanche": {
+    "Population": "13,506",
+    "Insecurity rate": "15.7%",
+    "Food insecure individuals (rounded)": "2,120",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72% 6% 22%"
+  },
+  "Concho": {
+    "Population": "4 ,142",
+    "Insecurity rate": "7.7%",
+    "Food insecure individuals (rounded)": 320,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "64% 7% 29%"
+  },
+  "Cooke": {
+    "Population": "38,878",
+    "Insecurity rate": "16.3%",
+    "Food insecure individuals (rounded)": "6,350",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "55% 5% 41%"
+  },
+  "Coryell": {
+    "Population": "75,710",
+    "Insecurity rate": "19.2%",
+    "Food insecure individuals (rounded)": "14,510",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "53% 6% 41%"
+  },
+  "Cottle": {
+    "Population": "1 ,560",
+    "Insecurity rate": "19.7%",
+    "Food insecure individuals (rounded)": 310,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "71% 4% 25%"
+  },
+  "Crane": {
+    "Population": "4 ,823",
+    "Insecurity rate": "9.2%",
+    "Food insecure individuals (rounded)": 450,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58% 14% 28%"
+  },
+  "Crockett": {
+    "Population": "3 ,836",
+    "Insecurity rate": "11.3%",
+    "Food insecure individuals (rounded)": 430,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58% 3% 39%"
+  },
+  "Crosby": {
+    "Population": "5 ,987",
+    "Insecurity rate": "12.0%",
+    "Food insecure individuals (rounded)": 720,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "88% 4% 8%"
+  },
+  "Culberson": {
+    "Population": "2 ,259",
+    "Insecurity rate": "8.2%",
+    "Food insecure individuals (rounded)": 180,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100% 0% 0%"
+  },
+  "Dallam": {
+    "Population": "7 ,052",
+    "Insecurity rate": "12.5%",
+    "Food insecure individuals (rounded)": 880,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "83% 7% 10%"
+  },
+  "Dallas": {
+    "Population": "2 ,513,054",
+    "Insecurity rate": "17.6%",
+    "Food insecure individuals (rounded)": "442,920",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "76% 3% 21%"
+  },
+  "Dawson": {
+    "Population": "13,317",
+    "Insecurity rate": "11.0%",
+    "Food insecure individuals (rounded)": "1,460",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "76%"
+  },
+  "Deaf Smith": {
+    "Population": "19,039",
+    "Insecurity rate": "7.4%",
+    "Food insecure individuals (rounded)": "1,410",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Delta": {
+    "Population": "5 ,226",
+    "Insecurity rate": "20.4%",
+    "Food insecure individuals (rounded)": "1,070",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "68%"
+  },
+  "Denton": {
+    "Population": "754,650",
+    "Insecurity rate": "15.0%",
+    "Food insecure individuals (rounded)": "113,260",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "43%"
+  },
+  "DeWitt": {
+    "Population": "20,660",
+    "Insecurity rate": "14.9%",
+    "Food insecure individuals (rounded)": "3,070",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "64%"
+  },
+  "Dickens": {
+    "Population": "2 ,237",
+    "Insecurity rate": "16.1%",
+    "Food insecure individuals (rounded)": 360,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70%"
+  },
+  "Dimmit": {
+    "Population": "10,842",
+    "Insecurity rate": "7.8%",
+    "Food insecure individuals (rounded)": 850,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Donley": {
+    "Population": "3 ,506",
+    "Insecurity rate": "17.7%",
+    "Food insecure individuals (rounded)": 620,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "56%"
+  },
+  "Duval": {
+    "Population": "11,510",
+    "Insecurity rate": "10.1%",
+    "Food insecure individuals (rounded)": "1,170",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "99%"
+  },
+  "Eastland": {
+    "Population": "18,252",
+    "Insecurity rate": "18.0%",
+    "Food insecure individuals (rounded)": "3,280",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72%"
+  },
+  "Ector": {
+    "Population": "153,177",
+    "Insecurity rate": "10.3%",
+    "Food insecure individuals (rounded)": "15,780",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70%"
+  },
+  "Edwards": {
+    "Population": "2 ,028",
+    "Insecurity rate": "6.6%",
+    "Food insecure individuals (rounded)": 130,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "99%"
+  },
+  "Ellis": {
+    "Population": "160,225",
+    "Insecurity rate": "14.2%",
+    "Food insecure individuals (rounded)": "22,830",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "55%"
+  },
+  "El Paso": {
+    "Population": "833,592",
+    "Insecurity rate": "8.5%",
+    "Food insecure individuals (rounded)": "71,030",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Erath": {
+    "Population": "40,641",
+    "Insecurity rate": "19.1%",
+    "Food insecure individuals (rounded)": "7,770",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "69%"
+  },
+  "Falls": {
+    "Population": "17,265",
+    "Insecurity rate": "20.8%",
+    "Food insecure individuals (rounded)": "3,590",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "68%"
+  },
+  "Fannin": {
+    "Population": "33,757",
+    "Insecurity rate": "17.9%",
+    "Food insecure individuals (rounded)": "6,050",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61%"
+  },
+  "Fayette": {
+    "Population": "24,909",
+    "Insecurity rate": "14.3%",
+    "Food insecure individuals (rounded)": "3,570",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "56%"
+  },
+  "Fisher": {
+    "Population": "3 ,847",
+    "Insecurity rate": "15.3%",
+    "Food insecure individuals (rounded)": 590,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "64%"
+  },
+  "Floyd": {
+    "Population": "6 ,088",
+    "Insecurity rate": "12.0%",
+    "Food insecure individuals (rounded)": 730,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "97%"
+  },
+  "Foard": {
+    "Population": "1 ,320",
+    "Insecurity rate": "13.4%",
+    "Food insecure individuals (rounded)": 180,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "63%"
+  },
+  "Fort Bend": {
+    "Population": "683,756",
+    "Insecurity rate": "14.8%",
+    "Food insecure individuals (rounded)": "100,920",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "41%"
+  },
+  "Franklin": {
+    "Population": "10,571",
+    "Insecurity rate": "18.0%",
+    "Food insecure individuals (rounded)": "1,900",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "67%"
+  },
+  "Freestone": {
+    "Population": "19,585",
+    "Insecurity rate": "19.9%",
+    "Food insecure individuals (rounded)": "3,890",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58%"
+  },
+  "Frio": {
+    "Population": "18,542",
+    "Insecurity rate": "8.2%",
+    "Food insecure individuals (rounded)": "1,530",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "99%"
+  },
+  "Gaines": {
+    "Population": "19,485",
+    "Insecurity rate": "10.4%",
+    "Food insecure individuals (rounded)": "2,040",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "77%"
+  },
+  "Galveston": {
+    "Population": "314,485",
+    "Insecurity rate": "17.0%",
+    "Food insecure individuals (rounded)": "53,350",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "53%"
+  },
+  "Garza": {
+    "Population": "6 ,614",
+    "Insecurity rate": "9.5%",
+    "Food insecure individuals (rounded)": 630,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "59%"
+  },
+  "Gillespie": {
+    "Population": "25,732",
+    "Insecurity rate": "12.8%",
+    "Food insecure individuals (rounded)": "3,300",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61%"
+  },
+  "Glasscock": {
+    "Population": "1 ,253",
+    "Insecurity rate": "9.8%",
+    "Food insecure individuals (rounded)": 120,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72%"
+  },
+  "Goliad": {
+    "Population": "7 ,463",
+    "Insecurity rate": "13.8%",
+    "Food insecure individuals (rounded)": "1,030",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58%"
+  },
+  "Gonzales": {
+    "Population": "20,370",
+    "Insecurity rate": "12.2%",
+    "Food insecure individuals (rounded)": "2,480",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "78%"
+  },
+  "Gray": {
+    "Population": "23,028",
+    "Insecurity rate": "16.4%",
+    "Food insecure individuals (rounded)": "3,780",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62%"
+  },
+  "Grayson": {
+    "Population": "124,231",
+    "Insecurity rate": "17.9%",
+    "Food insecure individuals (rounded)": "22,220",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61%"
+  },
+  "Gregg": {
+    "Population": "123,283",
+    "Insecurity rate": "21.3%",
+    "Food insecure individuals (rounded)": "26,270",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "69%"
+  },
+  "Grimes": {
+    "Population": "27,140",
+    "Insecurity rate": "19.2%",
+    "Food insecure individuals (rounded)": "5,210",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62%"
+  },
+  "Guadalupe": {
+    "Population": "147,313",
+    "Insecurity rate": "11.5%",
+    "Food insecure individuals (rounded)": "16,890",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58%"
+  },
+  "Hale": {
+    "Population": "35,007",
+    "Insecurity rate": "12.7%",
+    "Food insecure individuals (rounded)": "4,440",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "81%"
+  },
+  "Hall": {
+    "Population": "3 ,162",
+    "Insecurity rate": "20.5%",
+    "Food insecure individuals (rounded)": 650,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "96%"
+  },
+  "Hamilton": {
+    "Population": "8 ,232",
+    "Insecurity rate": "17.2%",
+    "Food insecure individuals (rounded)": "1,420",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "60%"
+  },
+  "Hansford": {
+    "Population": "5 ,552",
+    "Insecurity rate": "11.8%",
+    "Food insecure individuals (rounded)": 650,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "84%"
+  },
+  "Hardeman": {
+    "Population": "3 ,952",
+    "Insecurity rate": "16.2%",
+    "Food insecure individuals (rounded)": 640,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "79%"
+  },
+  "Hardin": {
+    "Population": "55,624",
+    "Insecurity rate": "18.0%",
+    "Food insecure individuals (rounded)": "10,040",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "47%"
+  },
+  "Harris": {
+    "Population": "4,434,257",
+    "Insecurity rate": "16.6%",
+    "Food insecure individuals (rounded)": "738,140",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "71%"
+  },
+  "Harrison": {
+    "Population": "66,431",
+    "Insecurity rate": "21.0%",
+    "Food insecure individuals (rounded)": "13,980",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61%"
+  },
+  "Hartley": {
+    "Population": "5 ,966",
+    "Insecurity rate": "13.3%",
+    "Food insecure individuals (rounded)": 790,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "32%"
+  },
+  "Haskell": {
+    "Population": "5 ,812",
+    "Insecurity rate": "16.1%",
+    "Food insecure individuals (rounded)": 940,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "59%"
+  },
+  "Hays": {
+    "Population": "185,686",
+    "Insecurity rate": "13.4%",
+    "Food insecure individuals (rounded)": "24,940",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62%"
+  },
+  "Hemphill": {
+    "Population": "4 ,151",
+    "Insecurity rate": "11.9%",
+    "Food insecure individuals (rounded)": 500,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "64%"
+  },
+  "Henderson": {
+    "Population": "79,213",
+    "Insecurity rate": "18.8%",
+    "Food insecure individuals (rounded)": "14,880",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "67%"
+  },
+  "Hidalgo": {
+    "Population": "828,334",
+    "Insecurity rate": "10.1%",
+    "Food insecure individuals (rounded)": "83,760",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Hill": {
+    "Population": "34,901",
+    "Insecurity rate": "17.6%",
+    "Food insecure individuals (rounded)": "6,140",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "67%"
+  },
+  "Hockley": {
+    "Population": "23,377",
+    "Insecurity rate": "12.2%",
+    "Food insecure individuals (rounded)": "2,850",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "74%"
+  },
+  "Hood": {
+    "Population": "54,217",
+    "Insecurity rate": "15.9%",
+    "Food insecure individuals (rounded)": "8,620",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "52%"
+  },
+  "Hopkins": {
+    "Population": "35,844",
+    "Insecurity rate": "18.2%",
+    "Food insecure individuals (rounded)": "6,540",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "69%"
+  },
+  "Houston": {
+    "Population": "22,802",
+    "Insecurity rate": "23.3%",
+    "Food insecure individuals (rounded)": "5,310",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "64%"
+  },
+  "Howard": {
+    "Population": "36,423",
+    "Insecurity rate": "13.8%",
+    "Food insecure individuals (rounded)": "5,030",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62%"
+  },
+  "Hudspeth": {
+    "Population": "3 ,481",
+    "Insecurity rate": "12.3%",
+    "Food insecure individuals (rounded)": 430,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "78%"
+  },
+  "Hunt": {
+    "Population": "89,068",
+    "Insecurity rate": "18.7%",
+    "Food insecure individuals (rounded)": "16,700",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "66%"
+  },
+  "Hutchinson": {
+    "Population": "21,782",
+    "Insecurity rate": "16.1%",
+    "Food insecure individuals (rounded)": "3,500",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "63%"
+  },
+  "Irion": {
+    "Population": "1 ,631",
+    "Insecurity rate": "13.0%",
+    "Food insecure individuals (rounded)": 210,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "51%"
+  },
+  "Jack": {
+    "Population": "8 ,866",
+    "Insecurity rate": "16.9%",
+    "Food insecure individuals (rounded)": "1,500",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "56%"
+  },
+  "Jackson": {
+    "Population": "14,678",
+    "Insecurity rate": "14.1%",
+    "Food insecure individuals (rounded)": "2,060",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61%"
+  },
+  "Jasper": {
+    "Population": "35,640",
+    "Insecurity rate": "21.8%",
+    "Food insecure individuals (rounded)": "7,760",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "59%"
+  },
+  "Jeff Davis": {
+    "Population": "2,221",
+    "Insecurity rate": "9.8%",
+    "Food insecure individuals (rounded)": 220,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "95%"
+  },
+  "Jefferson": {
+    "Population": "252,993",
+    "Insecurity rate": "23.5%",
+    "Food insecure individuals (rounded)": "59,370",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62%"
+  },
+  "Jim Hogg": {
+    "Population": "5,218",
+    "Insecurity rate": "7.3%",
+    "Food insecure individuals (rounded)": 380,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Jim Wells": {
+    "Population": "41,486",
+    "Insecurity rate": "10.1%",
+    "Food insecure individuals (rounded)": "4,200",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "87%"
+  },
+  "Johnson": {
+    "Population": "157,544",
+    "Insecurity rate": "14.8%",
+    "Food insecure individuals (rounded)": "23,310",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "57%"
+  },
+  "Jones": {
+    "Population": "19,944",
+    "Insecurity rate": "17.3%",
+    "Food insecure individuals (rounded)": "3,450",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "41%"
+  },
+  "Karnes": {
+    "Population": "14,984",
+    "Insecurity rate": "13.5%",
+    "Food insecure individuals (rounded)": "2,020",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61%"
+  },
+  "Kaufman": {
+    "Population": "111,830",
+    "Insecurity rate": "15.8%",
+    "Food insecure individuals (rounded)": "17,660",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "56%"
+  },
+  "Kendall": {
+    "Population": "39,010",
+    "Insecurity rate": "11.8%",
+    "Food insecure individuals (rounded)": "4,610",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "42%"
+  },
+  "Kenedy": {
+    "Population": "5 58",
+    "Insecurity rate": "12.5%",
+    "Food insecure individuals (rounded)": 70,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Kent": {
+    "Population": "6 67",
+    "Insecurity rate": "14.5%",
+    "Food insecure individuals (rounded)": 100,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "48%"
+  },
+  "Kerr": {
+    "Population": "50,505",
+    "Insecurity rate": "15.1%",
+    "Food insecure individuals (rounded)": "7,630",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "68%"
+  },
+  "Kimble": {
+    "Population": "4,453",
+    "Insecurity rate": "15.8%",
+    "Food insecure individuals (rounded)": 700,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "67%"
+  },
+  "King": {
+    "Population": "2 74",
+    "Insecurity rate": "15.5%",
+    "Food insecure individuals (rounded)": 40,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62%"
+  },
+  "Kinney": {
+    "Population": "3,578",
+    "Insecurity rate": "9.9%",
+    "Food insecure individuals (rounded)": 350,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "96%"
+  },
+  "Kleberg": {
+    "Population": "31,877",
+    "Insecurity rate": "12.2%",
+    "Food insecure individuals (rounded)": "3,900",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "83%"
+  },
+  "Knox": {
+    "Population": "3,807",
+    "Insecurity rate": "14.0%",
+    "Food insecure individuals (rounded)": 530,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72%"
+  },
+  "Lamar": {
+    "Population": "49,626",
+    "Insecurity rate": "21.6%",
+    "Food insecure individuals (rounded)": "10,730",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "68%"
+  },
+  "Lamb": {
+    "Population": "13,561",
+    "Insecurity rate": "13.2%",
+    "Food insecure individuals (rounded)": "1,790",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "95%"
+  },
+  "Lampasas": {
+    "Population": "20,357",
+    "Insecurity rate": "15.7%",
+    "Food insecure individuals (rounded)": "3,190",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58%"
+  },
+  "La Salle": {
+    "Population": "7,319",
+    "Insecurity rate": "4.9%",
+    "Food insecure individuals (rounded)": 360,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Lavaca": {
+    "Population": "19,654",
+    "Insecurity rate": "15.2%",
+    "Food insecure individuals (rounded)": "2,990",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "57%"
+  },
+  "Lee": {
+    "Population": "16,754",
+    "Insecurity rate": "15.7%",
+    "Food insecure individuals (rounded)": "2,630",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58%"
+  },
+  "Leon": {
+    "Population": "16,923",
+    "Insecurity rate": "18.2%",
+    "Food insecure individuals (rounded)": "3,080",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "67%"
+  },
+  "Liberty": {
+    "Population": "78,598",
+    "Insecurity rate": "18.7%",
+    "Food insecure individuals (rounded)": "14,670",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62%"
+  },
+  "Limestone": {
+    "Population": "23,469",
+    "Insecurity rate": "20.2%",
+    "Food insecure individuals (rounded)": "4,740",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "71%"
+  },
+  "Lipscomb": {
+    "Population": "3,507",
+    "Insecurity rate": "12.5%",
+    "Food insecure individuals (rounded)": 440,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "54%"
+  },
+  "Live Oak": {
+    "Population": "11,976",
+    "Insecurity rate": "13.2%",
+    "Food insecure individuals (rounded)": "1,580",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "56%"
+  },
+  "Llano": {
+    "Population": "19,624",
+    "Insecurity rate": "16.6%",
+    "Food insecure individuals (rounded)": "3,260",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "65%"
+  },
+  "Loving": {
+    "Population": 76,
+    "Insecurity rate": "18.7%",
+    "Food insecure individuals (rounded)": 10,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Lubbock": {
+    "Population": "294,682",
+    "Insecurity rate": "16.2%",
+    "Food insecure individuals (rounded)": "47,680",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70%"
+  },
+  "Lynn": {
+    "Population": "5,723",
+    "Insecurity rate": "12.3%",
+    "Food insecure individuals (rounded)": 700,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "87%"
+  },
+  "McCulloch": {
+    "Population": "8,242",
+    "Insecurity rate": "14.9%",
+    "Food insecure individuals (rounded)": "1,220",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "79%"
+  },
+  "McLennan": {
+    "Population": "243,394",
+    "Insecurity rate": "18.9%",
+    "Food insecure individuals (rounded)": "45,960",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "71%"
+  },
+  "McMullen": {
+    "Population": "6 71",
+    "Insecurity rate": "7.5%",
+    "Food insecure individuals (rounded)": 50,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "98%"
+  },
+  "Madison": {
+    "Population": "13,843",
+    "Insecurity rate": "18.8%",
+    "Food insecure individuals (rounded)": "2,600",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "44%"
+  },
+  "Marion": {
+    "Population": "10,191",
+    "Insecurity rate": "24.0%",
+    "Food insecure individuals (rounded)": "2,440",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "64%"
+  },
+  "Martin": {
+    "Population": "5,451",
+    "Insecurity rate": "9.3%",
+    "Food insecure individuals (rounded)": 510,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "87%"
+  },
+  "Mason": {
+    "Population": "4,064",
+    "Insecurity rate": "14.1%",
+    "Food insecure individuals (rounded)": 570,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62%"
+  },
+  "Matagorda": {
+    "Population": "36,719",
+    "Insecurity rate": "17.2%",
+    "Food insecure individuals (rounded)": "6,330",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "74%"
+  },
+  "Maverick": {
+    "Population": "56,830",
+    "Insecurity rate": "8.9%",
+    "Food insecure individuals (rounded)": "5,080",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Medina": {
+    "Population": "47,920",
+    "Insecurity rate": "9.3%",
+    "Food insecure individuals (rounded)": "4,430",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "66%"
+  },
+  "Menard": {
+    "Population": "2,163",
+    "Insecurity rate": "12.9%",
+    "Food insecure individuals (rounded)": 280,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "69%"
+  },
+  "Midland": {
+    "Population": "155,817",
+    "Insecurity rate": "10.7%",
+    "Food insecure individuals (rounded)": "16,710",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "51%"
+  },
+  "Milam": {
+    "Population": "24,372",
+    "Insecurity rate": "17.0%",
+    "Food insecure individuals (rounded)": "4,150",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "74%"
+  },
+  "Mills": {
+    "Population": "4,871",
+    "Insecurity rate": "14.8%",
+    "Food insecure individuals (rounded)": 720,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "60%"
+  },
+  "Mitchell": {
+    "Population": "8,995",
+    "Insecurity rate": "13.3%",
+    "Food insecure individuals (rounded)": "1,200",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "37%"
+  },
+  "Montague": {
+    "Population": "19,384",
+    "Insecurity rate": "17.9%",
+    "Food insecure individuals (rounded)": "3,480",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "63%"
+  },
+  "Montgomery": {
+    "Population": "518,849",
+    "Insecurity rate": "14.6%",
+    "Food insecure individuals (rounded)": "75,610",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "51%"
+  },
+  "Moore": {
+    "Population": "22,186",
+    "Insecurity rate": "10.8%",
+    "Food insecure individuals (rounded)": "2,390",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "89%"
+  },
+  "Morris": {
+    "Population": "12,653",
+    "Insecurity rate": "24.8%",
+    "Food insecure individuals (rounded)": "3,140",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58%"
+  },
+  "Motley": {
+    "Population": "1,022",
+    "Insecurity rate": "17.3%",
+    "Food insecure individuals (rounded)": 180,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72%"
+  },
+  "Nacogdoches": {
+    "Population": "65,556",
+    "Insecurity rate": "22.2%",
+    "Food insecure individuals (rounded)": "14,540",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70%"
+  },
+  "Navarro": {
+    "Population": "48,177",
+    "Insecurity rate": "17.9%",
+    "Food insecure individuals (rounded)": "8,640",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "75%"
+  },
+  "Newton": {
+    "Population": "14,138",
+    "Insecurity rate": "22.9%",
+    "Food insecure individuals (rounded)": "3,240",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "65%"
+  },
+  "Nolan": {
+    "Population": "15,017",
+    "Insecurity rate": "14.9%",
+    "Food insecure individuals (rounded)": "2,240",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72%"
+  },
+  "Nueces": {
+    "Population": "355,667",
+    "Insecurity rate": "11.0%",
+    "Food insecure individuals (rounded)": "39,170",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "78%"
+  },
+  "Ochiltree": {
+    "Population": "10,577",
+    "Insecurity rate": "10.0%",
+    "Food insecure individuals (rounded)": "1,050",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "81%"
+  },
+  "Oldham": {
+    "Population": "2,069",
+    "Insecurity rate": "15.8%",
+    "Food insecure individuals (rounded)": 330,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "52%"
+  },
+  "Orange": {
+    "Population": "83,751",
+    "Insecurity rate": "19.8%",
+    "Food insecure individuals (rounded)": "16,610",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "56%"
+  },
+  "Palo Pinto": {
+    "Population": "27,922",
+    "Insecurity rate": "17.7%",
+    "Food insecure individuals (rounded)": "4,940",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72%"
+  },
+  "Panola": {
+    "Population": "23,771",
+    "Insecurity rate": "20.5%",
+    "Food insecure individuals (rounded)": "4,870",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "59%"
+  },
+  "Parker": {
+    "Population": "123,601",
+    "Insecurity rate": "14.8%",
+    "Food insecure individuals (rounded)": "18,300",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "45%"
+  },
+  "Parmer": {
+    "Population": "9 ,921",
+    "Insecurity rate": "8.2%",
+    "Food insecure individuals (rounded)": 820,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "98%"
+  },
+  "Pecos": {
+    "Population": "15,826",
+    "Insecurity rate": "7.0%",
+    "Food insecure individuals (rounded)": "1,110",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "73%"
+  },
+  "Polk": {
+    "Population": "46,583",
+    "Insecurity rate": "19.4%",
+    "Food insecure individuals (rounded)": "9,050",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "63%"
+  },
+  "Potter": {
+    "Population": "121,883",
+    "Insecurity rate": "16.6%",
+    "Food insecure individuals (rounded)": "20,250",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "79%"
+  },
+  "Presidio": {
+    "Population": "7 ,144",
+    "Insecurity rate": "11.3%",
+    "Food insecure individuals (rounded)": 810,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Rains": {
+    "Population": "11,087",
+    "Insecurity rate": "16.0%",
+    "Food insecure individuals (rounded)": "1,770",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "58%"
+  },
+  "Randall": {
+    "Population": "128,603",
+    "Insecurity rate": "14.2%",
+    "Food insecure individuals (rounded)": "18,260",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "47%"
+  },
+  "Reagan": {
+    "Population": "3 ,625",
+    "Insecurity rate": "9.5%",
+    "Food insecure individuals (rounded)": 340,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "84%"
+  },
+  "Real": {
+    "Population": "3 ,348",
+    "Insecurity rate": "16.9%",
+    "Food insecure individuals (rounded)": 570,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70%"
+  },
+  "Red River": {
+    "Population": "12,455",
+    "Insecurity rate": "21.1%",
+    "Food insecure individuals (rounded)": "2,630",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72%"
+  },
+  "Reeves": {
+    "Population": "14,438",
+    "Insecurity rate": "7.2%",
+    "Food insecure individuals (rounded)": "1,050",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "83%"
+  },
+  "Refugio": {
+    "Population": "7 ,315",
+    "Insecurity rate": "12.5%",
+    "Food insecure individuals (rounded)": 910,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "69%"
+  },
+  "Roberts": {
+    "Population": 939,
+    "Insecurity rate": "14.1%",
+    "Food insecure individuals (rounded)": 130,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "33%"
+  },
+  "Robertson": {
+    "Population": "16,537",
+    "Insecurity rate": "18.3%",
+    "Food insecure individuals (rounded)": "3,030",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61%"
+  },
+  "Rockwall": {
+    "Population": "88,010",
+    "Insecurity rate": "12.7%",
+    "Food insecure individuals (rounded)": "11,200",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "41%"
+  },
+  "Runnels": {
+    "Population": "10,411",
+    "Insecurity rate": "13.9%",
+    "Food insecure individuals (rounded)": "1,440",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70%"
+  },
+  "Rusk": {
+    "Population": "53,197",
+    "Insecurity rate": "19.3%",
+    "Food insecure individuals (rounded)": "10,290",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "59%"
+  },
+  "Sabine": {
+    "Population": "10,367",
+    "Insecurity rate": "23.1%",
+    "Food insecure individuals (rounded)": "2,400",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "69%"
+  },
+  "San Augustine": {
+    "Population": "8 ,556",
+    "Insecurity rate": "25.6%",
+    "Food insecure individuals (rounded)": "2,190",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "80%"
+  },
+  "San Jacinto": {
+    "Population": "27,172",
+    "Insecurity rate": "18.7%",
+    "Food insecure individuals (rounded)": "5,070",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70%"
+  },
+  "San Patricio": {
+    "Population": "66,706",
+    "Insecurity rate": "11.2%",
+    "Food insecure individuals (rounded)": "7,490",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "75%"
+  },
+  "San Saba": {
+    "Population": "5 ,881",
+    "Insecurity rate": "15.1%",
+    "Food insecure individuals (rounded)": 890,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "75%"
+  },
+  "Schleicher": {
+    "Population": "3 ,171",
+    "Insecurity rate": "9.6%",
+    "Food insecure individuals (rounded)": 310,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "52%"
+  },
+  "Scurry": {
+    "Population": "17,314",
+    "Insecurity rate": "11.6%",
+    "Food insecure individuals (rounded)": "2,010",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "66%"
+  },
+  "Shackelford": {
+    "Population": "3 ,323",
+    "Insecurity rate": "17.1%",
+    "Food insecure individuals (rounded)": 570,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "55%"
+  },
+  "Shelby": {
+    "Population": "25,705",
+    "Insecurity rate": "21.3%",
+    "Food insecure individuals (rounded)": "5,480",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "81%"
+  },
+  "Sherman": {
+    "Population": "3 ,069",
+    "Insecurity rate": "10.1%",
+    "Food insecure individuals (rounded)": 310,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "70%"
+  },
+  "Smith": {
+    "Population": "219,745",
+    "Insecurity rate": "19.2%",
+    "Food insecure individuals (rounded)": "42,160",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "65%"
+  },
+  "Somervell": {
+    "Population": "8 ,673",
+    "Insecurity rate": "16.6%",
+    "Food insecure individuals (rounded)": "1,440",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "62%"
+  },
+  "Starr": {
+    "Population": "63,008",
+    "Insecurity rate": "12.5%",
+    "Food insecure individuals (rounded)": "7,910",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Stephens": {
+    "Population": "9 ,787",
+    "Insecurity rate": "17.1%",
+    "Food insecure individuals (rounded)": "1,670",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "69%"
+  },
+  "Sterling": {
+    "Population": "1 ,233",
+    "Insecurity rate": "11.8%",
+    "Food insecure individuals (rounded)": 150,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "85%"
+  },
+  "Stonewall": {
+    "Population": "1 ,233",
+    "Insecurity rate": "16.4%",
+    "Food insecure individuals (rounded)": 200,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "64%"
+  },
+  "Sutton": {
+    "Population": "3 ,936",
+    "Insecurity rate": "9.6%",
+    "Food insecure individuals (rounded)": 380,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61%"
+  },
+  "Swisher": {
+    "Population": "7 ,639",
+    "Insecurity rate": "15.2%",
+    "Food insecure individuals (rounded)": "1,160",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "75%"
+  },
+  "Tarrant": {
+    "Population": "1,947,529",
+    "Insecurity rate": "16.6%",
+    "Food insecure individuals (rounded)": "323,840",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "61%"
+  },
+  "Taylor": {
+    "Population": "135,234",
+    "Insecurity rate": "17.5%",
+    "Food insecure individuals (rounded)": "23,710",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "67%"
+  },
+  "Terrell": {
+    "Population": 778,
+    "Insecurity rate": "10.2%",
+    "Food insecure individuals (rounded)": 80,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "87%"
+  },
+  "Terry": {
+    "Population": "12,724",
+    "Insecurity rate": "10.5%",
+    "Food insecure individuals (rounded)": "1,340",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "97%"
+  },
+  "Throckmorton": {
+    "Population": "1 ,520",
+    "Insecurity rate": "15.7%",
+    "Food insecure individuals (rounded)": 240,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "57%"
+  },
+  "Titus": {
+    "Population": "32,592",
+    "Insecurity rate": "15.9%",
+    "Food insecure individuals (rounded)": "5,180",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "81%"
+  },
+  "Tom Green": {
+    "Population": "116,264",
+    "Insecurity rate": "13.7%",
+    "Food insecure individuals (rounded)": "15,900",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "66%"
+  },
+  "Travis": {
+    "Population": "1,148,176",
+    "Insecurity rate": "15.2%",
+    "Food insecure individuals (rounded)": "174,100",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "60%"
+  },
+  "Trinity": {
+    "Population": "14,360",
+    "Insecurity rate": "19.2%",
+    "Food insecure individuals (rounded)": "2,760",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "77%"
+  },
+  "Tyler": {
+    "Population": "21,371",
+    "Insecurity rate": "19.8%",
+    "Food insecure individuals (rounded)": "4,230",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "49%"
+  },
+  "Upshur": {
+    "Population": "40,295",
+    "Insecurity rate": "18.9%",
+    "Food insecure individuals (rounded)": "7,620",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "56%"
+  },
+  "Upton": {
+    "Population": "3 ,475",
+    "Insecurity rate": "12.4%",
+    "Food insecure individuals (rounded)": 430,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72%"
+  },
+  "Uvalde": {
+    "Population": "27,055",
+    "Insecurity rate": "8.9%",
+    "Food insecure individuals (rounded)": "2,410",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Val Verde": {
+    "Population": "48,862",
+    "Insecurity rate": "8.5%",
+    "Food insecure individuals (rounded)": "4,140",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Van Zandt": {
+    "Population": "53,070",
+    "Insecurity rate": "17.3%",
+    "Food insecure individuals (rounded)": "9,190",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "60%"
+  },
+  "Victoria": {
+    "Population": "90,989",
+    "Insecurity rate": "12.9%",
+    "Food insecure individuals (rounded)": "11,740",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "69%"
+  },
+  "Walker": {
+    "Population": "69,926",
+    "Insecurity rate": "23.3%",
+    "Food insecure individuals (rounded)": "16,320",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "48%"
+  },
+  "Waller": {
+    "Population": "47,049",
+    "Insecurity rate": "19.2%",
+    "Food insecure individuals (rounded)": "9,020",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "65%"
+  },
+  "Ward": {
+    "Population": "11,396",
+    "Insecurity rate": "11.8%",
+    "Food insecure individuals (rounded)": "1,340",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "67%"
+  },
+  "Washington": {
+    "Population": "34,544",
+    "Insecurity rate": "18.3%",
+    "Food insecure individuals (rounded)": "6,310",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "57%"
+  },
+  "Webb": {
+    "Population": "266,006",
+    "Insecurity rate": "8.1%",
+    "Food insecure individuals (rounded)": "21,520",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100%"
+  },
+  "Wharton": {
+    "Population": "41,377",
+    "Insecurity rate": "15.3%",
+    "Food insecure individuals (rounded)": "6,340",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "78%"
+  },
+  "Wheeler": {
+    "Population": "5 ,642",
+    "Insecurity rate": "16.0%",
+    "Food insecure individuals (rounded)": 900,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "65%"
+  },
+  "Wichita": {
+    "Population": "132,148",
+    "Insecurity rate": "19.2%",
+    "Food insecure individuals (rounded)": "25,430",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "59%"
+  },
+  "Wilbarger": {
+    "Population": "13,061",
+    "Insecurity rate": "16.8%",
+    "Food insecure individuals (rounded)": "2,200",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "72%"
+  },
+  "Willacy": {
+    "Population": "21,944",
+    "Insecurity rate": "13.5%",
+    "Food insecure individuals (rounded)": "2,950",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "88%"
+  },
+  "Williamson": {
+    "Population": "490,619",
+    "Insecurity rate": "13.0%",
+    "Food insecure individuals (rounded)": "63,690",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "41%"
+  },
+  "Wilson": {
+    "Population": "46,444",
+    "Insecurity rate": "9.7%",
+    "Food insecure individuals (rounded)": "4,480",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "56% 5% 40%"
+  },
+  "Winkler": {
+    "Population": "7 ,723",
+    "Insecurity rate": "11.0%",
+    "Food insecure individuals (rounded)": 850,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "74% 4% 22%"
+  },
+  "Wise": {
+    "Population": "62,089",
+    "Insecurity rate": "15.0%",
+    "Food insecure individuals (rounded)": "9,310",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "60% 8% 32%"
+  },
+  "Wood": {
+    "Population": "43,198",
+    "Insecurity rate": "17.3%",
+    "Food insecure individuals (rounded)": "7,480",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "60% 7% 33%"
+  },
+  "Yoakum": {
+    "Population": "8 ,316",
+    "Insecurity rate": "7.0%",
+    "Food insecure individuals (rounded)": 580,
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "92% 4% 4%"
+  },
+  "Young": {
+    "Population": "18,275",
+    "Insecurity rate": "15.6%",
+    "Food insecure individuals (rounded)": "2,850",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "66% 5% 29%"
+  },
+  "Zapata": {
+    "Population": "14,335",
+    "Insecurity rate": "10.8%",
+    "Food insecure individuals (rounded)": "1,550",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "94% 7% 0%"
+  },
+  "Zavala": {
+    "Population": "12,107",
+    "Insecurity rate": "13.9%",
+    "Food insecure individuals (rounded)": "1,680",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "100% 0% 0%"
+  },
+  "State Total": {
+    "Population": "27,862,596",
+    "Insecurity rate": "15.4%",
+    "Food insecure individuals (rounded)": "4,277,540",
+    "Poverty and 185% poverty povertySNAP, WIC, free school WIC, reduced price Charitable Response meals, CSFP, TEFAP school meals": "63.8% 3.2% 33.0%"
+  }
+}
