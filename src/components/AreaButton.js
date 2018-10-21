@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react'
 import {Col, Button} from 'reactstrap'
 import WebFont from 'webfontloader'
 
@@ -16,22 +16,35 @@ var globalStyles = {
     },
 }
 
-export default function AreaButton (props) {
-    // Allow changing colors
-    let color = "linear-gradient(90deg, #" + props.beginColor + " 0%, #" + props.endColor + " 100%)";
-    let styles = {
-        button: {
-            margin: "15px 15px",
-            border: "0",
-            borderRadius: "20px",
-            background: color,
-            zIndex: "10",
-        },
-    };
+export default class AreaButton extends Component {
+    constructor() {
+        super();
+        this.state = {
+            countySelected: "N/A",
+        }
+    }
 
-    return(
-        <Button style={styles.button}>
-            <span style={globalStyles.body}>{props.county}</span>
-        </Button>
-    );
+    // Allow changing colors
+    render() {
+        let color = "linear-gradient(90deg, #" + this.props.beginColor + " 0%, #" + this.props.endColor + " 100%)";
+        let styles = {
+            button: {
+                margin: "15px 15px",
+                border: "0",
+                borderRadius: "20px",
+                background: color,
+                zIndex: "10",
+            },
+        };
+        return(
+            <Button 
+                style={styles.button}
+                onClick={() => {
+                    this.setState({countySelected: this.props.county});
+                }}
+            >
+                <span style={globalStyles.body}>{this.props.county}</span>
+            </Button>
+        );
+    }
 }

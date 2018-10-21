@@ -46,11 +46,12 @@ export default class Search extends Component {
                     <input
                         placeholder={this.state.searchText}
                         placeholderTextColor="rgba(235, 235, 235, 0.65)"
-                        onSubmit={() => {
-                            
+                        onSubmit={(value) => {
+                            this.setState({searchText: value});
+                            console.log(this.state.searchText)
                         }}
                         onChange={(value) => {
-                            this.setState((this.state.searchText === "") ? " " : {searchText: value});
+                            
                         }}
                         style={styles.input}
                     ></input>

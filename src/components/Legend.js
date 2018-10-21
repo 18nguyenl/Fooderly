@@ -12,11 +12,10 @@ const styles = {
     box: {
         borderRadius: "45px",
         height: "450px",
-        width: "500px",
+        width: "auto",
         boxSizing: "border-box",
         border: "2px solid #D4D4D4",
-        marginLeft: "20px",
-        marginRight: "20px",
+        margin: (window.innerHeight > window.innerWidth) ? "30px 0 0 0" : "0 20px",
         padding: "20px 30px",
         paddingLeft: "50px",
         color: "rgba(0, 0, 0, 0)",

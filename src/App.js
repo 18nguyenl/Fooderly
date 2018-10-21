@@ -29,7 +29,7 @@ const styles = {
     paddingRight: "5vw",
     minHeight: "100vh",
     minWidth: "100vw",
-    background: "linear-gradient(180deg, #FF9595 0%, #1E1E1E 50.83%)",
+    background: "linear-gradient(180deg, #069E27 0%, #1E1E1E 50.83%)",
   },
   logo: {
     position: "absolute",
@@ -39,7 +39,7 @@ const styles = {
     top: "4vh", 
     left: "4w",
     fontFamily: "'Paytone One', sans-serif",
-    color: "#BC1E1E",
+    color: "rgba(255, 255, 255, 60)",
   },
   jumbotron: {
     height: "60vh",
@@ -58,14 +58,16 @@ const styles = {
     overflowY: "hidden",
     color: "#EBEBEB",
     fontFamily: "'K2D', sans-serif",
+    letterSpacing: "1px",
+    fontSize: "20px",
     lineHeight: "2",
     position: "relative",
     minHeight: "50px",
     minWidth: "180px",
-    maxHeight: "200px",
+    maxHeight: "250px",
     maxWidth: "40vw",
     marginLeft: "30vw",
-    top: "15vh",
+    top: "17vh",
     left: "10vw",
     right: "10vw",
   },
@@ -89,26 +91,26 @@ class App extends Component {
     super();
     this.state = {
       areas: [
-        <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Harp County" beginColor="F53E15" endColor="FFBF1B"/>,
-        <AreaButton county="Jes County" beginColor="F53E15" endColor="FFBF1B"/>,
-        <AreaButton county="Tarrant County" beginColor="FF9900" endColor="FF800B"/>,
-        <AreaButton county="Jones County" beginColor="FF9900" endColor="EBEF1F"/>,
-        <AreaButton county="Harp County" beginColor="F53E15" endColor="FFBF1B"/>,
-        <AreaButton county="Jes County" beginColor="F53E15" endColor="FFBF1B"/>,
-        <AreaButton county="Tarrant County" beginColor="F53E15" endColor="FF800B"/>,
-        <AreaButton county="Jones County" beginColor="FF9900" endColor="EBEF1F"/>,
-        <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>,
-        <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>
+        <AreaButton county="Tarrant County" beginColor="FFA800" endColor="EBEF1F"/>,
+        <AreaButton county="Jones County" beginColor="069E27" endColor="79DA17"/>,
+        <AreaButton county="Harp County" beginColor="069E27" endColor="79DA17"/>,
+        <AreaButton county="Jes County" beginColor="F56615" endColor="FFBF1B"/>,
+        <AreaButton county="McTinny County" beginColor="80CF00" endColor="E1E515"/>,
+        <AreaButton county="Kale County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Harper County" beginColor="F53E15" endColor="FFBF1B"/>,
+        <AreaButton county="Erjes County" beginColor="F53E15" endColor="FFBF1B"/>,
+        <AreaButton county="Gudalupe County" beginColor="F56615" endColor="FF800B"/>,
+        <AreaButton county="McCumb County" beginColor="FF9900" endColor="EBEF1F"/>,
+        <AreaButton county="Parm County" beginColor="80CF00" endColor="E1E515"/>,
+        <AreaButton county="Oops County" beginColor="FFA800" endColor="EBEF1F"/>,
+        <AreaButton county="Tarrr County" beginColor="F53E15" endColor="FF800B"/>,
+        <AreaButton county="Jonas County" beginColor="F56615" endColor="FFBF1B"/>,
+        <AreaButton county="Yogu County" beginColor="F56615" endColor="FFBF1B"/>,
+        <AreaButton county="Quop County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Wartyes County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Illop County" beginColor="FFA800" endColor="EBEF1F"/>,
+        <AreaButton county="Furnst County" beginColor="80CF00" endColor="E1E515"/>,
+        <AreaButton county="MacMummy County" beginColor="80CF00" endColor="E1E515"/>
       ],
     };
   }
@@ -118,8 +120,8 @@ class App extends Component {
     return (
       <Container fluid style={styles.app}>
       <div style={styles.logo}>
-      <FontAwesomeIcon icon="bars" size="2x" style={{color: "#EBEBEB", display: "inline-block"}}/>
-      <span style={{display: "inline-block", marginLeft: "30px", fontSize: "40px"}}>FOODERLY</span>
+        {/* <FontAwesomeIcon icon="bars" size="2x" style={{color: "#EBEBEB", display: "inline-block"}}/> */}
+        <span style={{display: "inline-block", marginLeft: "0px", fontSize: "40px"}}>FOODERLY</span>
       </div>
       
       <section style={styles.jumbotron}>
@@ -130,14 +132,14 @@ class App extends Component {
       </section>
       <section>
       <h1 style={styles.h1}>
-      AREAS IN NEED
+      AREAS IN TEXAS
       </h1>
       
       <Search style={styles.search}/>
       
       <AreaList>
         {
-          this.state.areas
+          this.state.areas.splice((this.state.areas.length >= 18) ? this.state.areas.length - 18 : 0)
         }
       </AreaList>
       </section>

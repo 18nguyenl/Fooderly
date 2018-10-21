@@ -15,7 +15,6 @@ class AppMap extends Component {
       county: {},
       txc: {},
       currentColor: "black"
-      
     }
   }
   projection() {
