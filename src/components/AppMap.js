@@ -8,13 +8,14 @@ import { Container, Row, Col } from 'reactstrap'
 
 class AppMap extends Component {
 
-  constructor() {
-    super()
+  constructor(props) {
+    super(props)
     this.state = {
       worldData: [],
       county: {},
       txc: {},
-      currentColor: "black"
+      currentColor: "black",
+      focusCounty: "Tarrant"
       
     }
   }
@@ -28,7 +29,6 @@ class AppMap extends Component {
   componentDidMount() {
     // LOAD
 
-    console.log("Comp Mounted");
 
     // GET MAP DATA
     fetch("https://raw.githubusercontent.com/TNRIS/tx.geojson/master/counties/tx_counties.topojson")
@@ -52,12 +52,12 @@ class AppMap extends Component {
 
   changeColor(col){
     if(col === undefined){
-      return "black";
+      return "#DCE235";
     }
     col = col.cir.slice(0,-1);
     // this.setState({currentColor: col});
     // 25, 157, 48	
-    return `rgb(10, ${col * 5}, 50)`;
+    return `rgb(25, ${col * 5}, 48)`;
   }
   
   render() {
@@ -75,6 +75,7 @@ class AppMap extends Component {
                         d={ geoPath().projection(this.projection())(d) }
                         // className="county"
                         stroke={(dataset[d.properties.COUNTY.slice(0,-7)] && dataset[d.properties.COUNTY.slice(0,-7)].cir.slice(0,-1)  > 30) ? `white` : "black" } //white: POVERTY, blue: we good
+                        // stroke={(dataset[d.properties.COUNTY.slice(0,-7)] && dataset[d.properties.COUNTY.slice(0,-7)].cir.slice(0,-1)  > 30) ? `white` : "black" } //white: POVERTY, blue: we good
                         strokeWidth={ .5}
                         className={dataset[d.properties.COUNTY.slice(0,-7)] ? dataset[d.properties.COUNTY.slice(0,-7)].rounded + "|" + d.properties.COUNTY.slice(0,-7) : "none"}
                         // className={(d.properties.COUNTY == data.county) ? `rgb(0, 0, ${data.poverty_perc.slice(0,-1)})` : "red"}

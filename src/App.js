@@ -125,8 +125,8 @@ class App extends Component {
       <section style={styles.jumbotron}>
       <img src={JumboImage} style={styles.jumbotronImage}/>
       <p style={styles.intro}>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper sit amet nibh nec sodales. Nunc quis placerat quam. Nulla at volutpat sapien. Donec et erat tempus, vehicula mi et, vehicula turpis. Donec metus lacus, mollis id nisi sed, dictum dignissim felis. Duis porttitor risus at sem dignissim imperdiet. Duis ornare mollis ipsum aliquam suscipit. 
-      </p>
+      By connecting counties together, we can help reduce child hunger. </p>
+      <p style={styles.intro}>Fooderly's goal is in planning and re-allocating food that</p>
       </section>
       <section>
       <h1 style={styles.h1}>
