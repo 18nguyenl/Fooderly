@@ -4,11 +4,7 @@ import { feature } from "topojson-client"
 // import {objects} from '../resc/tx_counties.topojson'
 import {dataset} from '../resc/txc.json'
 import './appMap.css';
-<<<<<<< HEAD
-import { yellow, black } from "ansi-colors";
-=======
 import { Container, Row, Col } from 'reactstrap'
->>>>>>> 43a1bdfb3255a9addfe6cc02367b924f68f58101
 
 class AppMap extends Component {
 
@@ -60,9 +56,10 @@ class AppMap extends Component {
     }
     col = col.cir.slice(0,-1);
     // this.setState({currentColor: col});
-    return `rgb(0, ${col * 5}, 0)`;
+    // 25, 157, 48	
+    return `rgb(10, ${col * 5}, 50)`;
   }
-
+  
   render() {
     return (
         <Container fluid>
@@ -82,7 +79,7 @@ class AppMap extends Component {
                         className={dataset[d.properties.COUNTY.slice(0,-7)] ? dataset[d.properties.COUNTY.slice(0,-7)].rounded + "|" + d.properties.COUNTY.slice(0,-7) : "none"}
                         // className={(d.properties.COUNTY == data.county) ? `rgb(0, 0, ${data.poverty_perc.slice(0,-1)})` : "red"}
                         // fill="black"
-                        fill={(dataset[d.properties.COUNTY.slice(0,-7)]  && dataset[d.properties.COUNTY.slice(0,-7)].cir.slice(0,-1) > 25) ? `rgb(${dataset[d.properties.COUNTY.slice(0,-7)].cir.slice(0,-1) * 6 }, 0, 10)` : this.changeColor(dataset[d.properties.COUNTY.slice(0,-7)])}
+                        fill={(dataset[d.properties.COUNTY.slice(0,-7)]  && dataset[d.properties.COUNTY.slice(0,-7)].cir.slice(0,-1) > 25) ? `rgb(${dataset[d.properties.COUNTY.slice(0,-7)].cir.slice(0,-1) * 6 }, 40, 30)` : this.changeColor(dataset[d.properties.COUNTY.slice(0,-7)])}
                     />
                     )
                   }
