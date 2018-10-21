@@ -12,6 +12,7 @@ import AreaList from './components/AreaList'
 import AreaButton from './components/AreaButton'
 import Search from './components/Search'
 import JumboImage from './resc/wheat.png'
+import Legend from './components/Legend.js'
 
 library.add(faBars);
 
@@ -84,56 +85,78 @@ const styles = {
 }
 
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      areas: [
+        <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Harp County" beginColor="F53E15" endColor="FFBF1B"/>,
+        <AreaButton county="Jes County" beginColor="F53E15" endColor="FFBF1B"/>,
+        <AreaButton county="Tarrant County" beginColor="FF9900" endColor="FF800B"/>,
+        <AreaButton county="Jones County" beginColor="FF9900" endColor="EBEF1F"/>,
+        <AreaButton county="Harp County" beginColor="F53E15" endColor="FFBF1B"/>,
+        <AreaButton county="Jes County" beginColor="F53E15" endColor="FFBF1B"/>,
+        <AreaButton county="Tarrant County" beginColor="F53E15" endColor="FF800B"/>,
+        <AreaButton county="Jones County" beginColor="FF9900" endColor="EBEF1F"/>,
+        <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>,
+        <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>
+      ],
+    };
+  }
+
+  
   render() {
     return (
       <Container fluid style={styles.app}>
-          <div style={styles.logo}>
-            <FontAwesomeIcon icon="bars" size="2x" style={{color: "#EBEBEB", display: "inline-block"}}/>
-            <span style={{display: "inline-block", marginLeft: "30px", fontSize: "40px"}}>FOODERLY</span>
-          </div>
-
-          <section style={styles.jumbotron}>
-            <img src={JumboImage} style={styles.jumbotronImage}/>
-            <p style={styles.intro}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper sit amet nibh nec sodales. Nunc quis placerat quam. Nulla at volutpat sapien. Donec et erat tempus, vehicula mi et, vehicula turpis. Donec metus lacus, mollis id nisi sed, dictum dignissim felis. Duis porttitor risus at sem dignissim imperdiet. Duis ornare mollis ipsum aliquam suscipit. 
-            </p>
-          </section>
-          <section>
-            <h1 style={styles.h1}>
-              AREAS IN NEED
-            </h1>
-
-            <Search style={styles.search}/>
-
-            <AreaList>
-              <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Harp County" beginColor="F53E15" endColor="FFBF1B"/>
-              <AreaButton county="Jes County" beginColor="F53E15" endColor="FFBF1B"/>
-              <AreaButton county="Tarrant County" beginColor="FF9900" endColor="FF800B"/>
-              <AreaButton county="Jones County" beginColor="FF9900" endColor="EBEF1F"/>
-              <AreaButton county="Harp County" beginColor="F53E15" endColor="FFBF1B"/>
-              <AreaButton county="Jes County" beginColor="F53E15" endColor="FFBF1B"/>
-              <AreaButton county="Tarrant County" beginColor="F53E15" endColor="FF800B"/>
-              <AreaButton county="Jones County" beginColor="FF9900" endColor="EBEF1F"/>
-              <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>
-              <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>
-            </AreaList>
-          </section>
-          <AppMap></AppMap>
-          
-          {/* <Footer></Footer> */}
+      <div style={styles.logo}>
+      <FontAwesomeIcon icon="bars" size="2x" style={{color: "#EBEBEB", display: "inline-block"}}/>
+      <span style={{display: "inline-block", marginLeft: "30px", fontSize: "40px"}}>FOODERLY</span>
+      </div>
+      
+      <section style={styles.jumbotron}>
+      <img src={JumboImage} style={styles.jumbotronImage}/>
+      <p style={styles.intro}>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper sit amet nibh nec sodales. Nunc quis placerat quam. Nulla at volutpat sapien. Donec et erat tempus, vehicula mi et, vehicula turpis. Donec metus lacus, mollis id nisi sed, dictum dignissim felis. Duis porttitor risus at sem dignissim imperdiet. Duis ornare mollis ipsum aliquam suscipit. 
+      </p>
+      </section>
+      <section>
+      <h1 style={styles.h1}>
+      AREAS IN NEED
+      </h1>
+      
+      <Search style={styles.search}/>
+      
+      <AreaList>
+        {
+          this.state.areas
+        }
+      </AreaList>
+      </section>
+      <Container fluid style={{marginBottom: "7vh"}}>
+        <Row>
+          <Col md="7">
+            <AppMap></AppMap>
+          </Col>
+          <Col md="5">
+            <Legend />
+          </Col>
+        </Row>
       </Container>
-    );
+      
+      {/* <Footer></Footer> */}
+      </Container>
+      );
+    }
   }
-}
-
-export default App;
+  
+  export default App;
+  
