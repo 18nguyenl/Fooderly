@@ -13,6 +13,7 @@ import AreaButton from './components/AreaButton'
 import Search from './components/Search'
 import JumboImage from './resc/wheat.png'
 import Legend from './components/Legend.js'
+import { TweenMax, Power2 } from 'gsap/TweenMax'
 
 library.add(faBars);
 
@@ -115,7 +116,6 @@ class App extends Component {
     };
   }
 
-  
   render() {
     return (
       <Container fluid style={styles.app}>
@@ -125,10 +125,10 @@ class App extends Component {
       </div>
       
       <section style={styles.jumbotron}>
-      <img src={JumboImage} style={styles.jumbotronImage}/>
-      <p style={styles.intro}>
-      By connecting counties together, we can help reduce child hunger. </p>
-      <p style={styles.intro}>Fooderly's goal is in planning and re-allocating food that</p>
+        <img src={JumboImage} style={styles.jumbotronImage}/>
+          <p style={styles.intro}>
+          Fooderly wants to help fight Texas hunger! By connecting counties together, we can help reduce child hunger. We offer brilliant data visualizations and insights on modes to encourage food reallocation. </p>
+          <p style={styles.intro}>Fooderly's goal is to lessen Texas hunger and help offer a brighter future for the starving.</p>
       </section>
       <section>
       <h1 style={styles.h1}>
