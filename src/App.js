@@ -6,60 +6,118 @@ import Footer from './components/Footer'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
-import { Container} from 'reactstrap'
+import { Row, Col, Container} from 'reactstrap'
+import WebFont from 'webfontloader'
 import AreaList from './components/AreaList'
 import AreaButton from './components/AreaButton'
-import WebFont from 'webfontloader'
+import Search from './components/Search'
 
 library.add(faBars);
 
 WebFont.load({
   google: {
-    families: ['Paytone One', 'sans-serif']
+    families: ['Paytone One', 'K2D', 'sans-serif']
   }
 });
 
 const styles = {
   app: {
+    padding: "0 4vw",
     minHeight: "100vh",
     minWidth: "100vw",
     background: "linear-gradient(180deg, #FF9595 0%, #1E1E1E 50.83%)",
   },
+  logo: {
+    position: "absolute",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    top: "4vh", 
+    left: "4w",
+    fontFamily: "'Paytone One', sans-serif",
+    color: "#BC1E1E",
+  },
   jumbotron: {
-    height: "45vh",
+    height: "60vh",
+    marginBottom: "3vh",
+    padding: "3vh 3vw",
+  },
+  intro: {
+    overflowY: "hidden",
+    color: "#EBEBEB",
+    fontFamily: "'K2D', sans-serif",
+    lineHeight: "2",
+    position: "relative",
+    minHeight: "100px",
+    minWidth: "360px",
+    maxHeight: "200px",
+    maxWidth: "40vw",
+    marginLeft: "50vw",
+    top: "15vh",
+    right: "10vw",
   },
   h1: {
+    position: "relative", 
+    overflowY: "hidden",
     color: "#EBEBEB",
     fontFamily: "'Paytone One', sans-serif",
     fontSize: "48px",
-    marginBottom: "1.5em",
+    marginBottom: "15px",
     letterSpacing: "3px",
   },
+  search: {
+    marginTop: "30px",
+    marginBottom: "70px",
+  }
 }
 
 class App extends Component {
   render() {
     return (
       <Container fluid style={styles.app}>
-          <section style={styles.jumbotron}>
+          <div style={styles.logo}>
+            <FontAwesomeIcon icon="bars" size="2x" style={{color: "#EBEBEB", display: "inline-block"}}/>
+            <span style={{display: "inline-block", marginLeft: "30px", fontSize: "40px"}}>FOODERLY</span>
+          </div>
 
+          <section style={styles.jumbotron}>
+            <p style={styles.intro}>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper sit amet nibh nec sodales. Nunc quis placerat quam. Nulla at volutpat sapien. Donec et erat tempus, vehicula mi et, vehicula turpis. Donec metus lacus, mollis id nisi sed, dictum dignissim felis. Duis porttitor risus at sem dignissim imperdiet. Duis ornare mollis ipsum aliquam suscipit. 
+            </p>
           </section>
           <section>
             <h1 style={styles.h1}>
-              <span style={styles.h1}>AREAS IN NEED</span>
+              AREAS IN NEED
             </h1>
+
+            <Search style={styles.search}/>
 
             <AreaList>
               <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>
               <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>
               <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>
               <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>
+              <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>
+              <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>
+              <AreaButton county="Harp County" beginColor="F53E15" endColor="FFBF1B"/>
+              <AreaButton county="Jes County" beginColor="F53E15" endColor="FFBF1B"/>
+              <AreaButton county="Tarrant County" beginColor="FF9900" endColor="FF800B"/>
+              <AreaButton county="Jones County" beginColor="FF9900" endColor="EBEF1F"/>
+              <AreaButton county="Harp County" beginColor="F53E15" endColor="FFBF1B"/>
+              <AreaButton county="Jes County" beginColor="F53E15" endColor="FFBF1B"/>
+              <AreaButton county="Tarrant County" beginColor="F53E15" endColor="FF800B"/>
+              <AreaButton county="Jones County" beginColor="FF9900" endColor="EBEF1F"/>
+              <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>
+              <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>
+              <AreaButton county="Tarrant County" beginColor="FF0000" endColor="FF800B"/>
+              <AreaButton county="Jones County" beginColor="FF0000" endColor="FF800B"/>
+              <AreaButton county="Harp County" beginColor="FF0000" endColor="FF800B"/>
+              <AreaButton county="Jes County" beginColor="FF0000" endColor="FF800B"/>
             </AreaList>
           </section>
-          <FontAwesomeIcon icon="bars"/>
           <AppMap></AppMap>
           
-          <Footer></Footer>
+          {/* <Footer></Footer> */}
       </Container>
     );
   }

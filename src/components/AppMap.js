@@ -1,10 +1,10 @@
-
 import React, { Component } from "react"
 import { geoMercator, geoPath } from "d3-geo"
 import { feature } from "topojson-client"
 import {objects} from '../resc/tx_counties.topojson'
 import {dataset} from '../resc/county.json'
 import './appMap.css';
+import { Container, Row, Col } from 'reactstrap'
 
 class AppMap extends Component {
 
@@ -46,7 +46,8 @@ class AppMap extends Component {
 
   render() {
     return (
-        <div>
+        <Container fluid>
+          <Row>
             <svg className="texas_svg" width={ 800 } height={ 450 } viewBox="0 0 800 450">
                 <g className="countries">
                 {
@@ -65,9 +66,9 @@ class AppMap extends Component {
                     )
                 }
                 </g>
-                 
             </svg>
-        </div>
+          </Row>
+        </Container>
     )
   }
 }
