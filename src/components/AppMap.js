@@ -2,6 +2,8 @@
 import React, { Component } from "react"
 import { geoMercator, geoPath } from "d3-geo"
 import { feature } from "topojson-client"
+import {objects} from '../resc/tx_counties.topojson'
+import {dataset} from '../resc/county.json'
 import './appMap.css';
 
 class AppMap extends Component {
@@ -10,15 +12,23 @@ class AppMap extends Component {
     super()
     this.state = {
       worldData: [],
+      county: {}
+      
     }
   }
   projection() {
-      let scale = 2800;
+    let scale = 2000;
     return geoMercator()
       .scale(scale)
-      .translate([ scale * 1.9 , scale / 1.48  ])
+      .translate([ scale * 1.9 , scale / 1.45  ])
   }
+
   componentDidMount() {
+    // LOAD
+
+    
+
+    // GET MAP DATA
     fetch("https://raw.githubusercontent.com/TNRIS/tx.geojson/master/counties/tx_counties.topojson")
       .then(response => {
         if (response.status !== 200) {
@@ -32,32 +42,30 @@ class AppMap extends Component {
         })
       })
   }
+
+
   render() {
     return (
         <div>
-            <svg  className="texas_svg" width={ 800 } height={ 450 } viewBox="0 0 800 450">
+            <svg className="texas_svg" width={ 800 } height={ 450 } viewBox="0 0 800 450">
                 <g className="countries">
                 {
-                    this.state.worldData.map((d,i) => (
+                    this.state.worldData.map((d,i) => 
+                    
                     <path
                         key={ `path-${ i }` }
                         d={ geoPath().projection(this.projection())(d) }
-                        className="county"
-                        stroke="#FFFFFF"
-                        strokeWidth={ 0.5 }
+                        // className="county"
+                        stroke={(dataset[d.properties.COUNTY] && dataset[d.properties.COUNTY].poverty_perc.slice(0, -1) > 30 ) ? "white" : "green" }
+                        strokeWidth={ (dataset[d.properties.COUNTY] && dataset[d.properties.COUNTY].poverty_perc.slice(0, -1) > 30 ) ?  1 : 0.5 }
+                        // className={"#"+ d.properties.COUNTY}
+                        // className={(d.properties.COUNTY == data.county) ? `rgb(0, 0, ${data.poverty_perc.slice(0,-1)})` : "red"}
+                        fill={(dataset[d.properties.COUNTY]) ? `rgb(${dataset[d.properties.COUNTY].poverty_perc.slice(0,-1) * 20 }, ${dataset[d.properties.COUNTY].poverty_perc.slice(0,-1) * 1.5},0)` : "black"}
                     />
-                    ))
+                    )
                 }
                 </g>
-                <g className="markers">
-                <circle
-                    cx={ 20 }
-                    cy={ 100 }
-                    r={ 10 }
-                    fill="#E91E63"
-                    className="marker"
-                />
-                </g>
+                 
             </svg>
         </div>
     )
