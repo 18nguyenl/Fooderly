@@ -1,0 +1,35 @@
+{
+    "dataset": {
+        
+        "Archer County": {
+            "poverty_perc": "94.8%"
+        },
+        "Tarrant County": {
+            "poverty_perc": "14.8%"
+        },
+        "Armstrong County": {
+            "poverty_perc": "24.8%"            
+        },
+        "Bastrop County": {
+            "poverty_perc": "34.8%"            
+        },
+        "Bowie County": {
+            "poverty_perc": "44.8%"            
+        },
+        "Brooks County": {
+            "poverty_perc": "54.8%"            
+        },
+        "Brown County": {
+            "poverty_perc": "64.8%"            
+        }
+
+        
+
+            
+            
+            
+            
+            
+        }
+
+}
