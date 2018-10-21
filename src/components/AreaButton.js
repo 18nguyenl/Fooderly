@@ -21,6 +21,7 @@ export default function AreaButton (props) {
     let color = "linear-gradient(90deg, #" + props.beginColor + " 0%, #" + props.endColor + " 100%)";
     let styles = {
         button: {
+            display: "flex",
             border: "0",
             borderRadius: "20px",
             background: color,

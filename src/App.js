@@ -26,7 +26,7 @@ const styles = {
     background: "linear-gradient(180deg, #FF9595 0%, #1E1E1E 50.83%)",
   },
   jumbotron: {
-    height: "40vh",
+    height: "45vh",
   },
   h1: {
     color: "#EBEBEB",
